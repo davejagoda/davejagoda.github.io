@@ -1,19 +1,21 @@
 <!doctype html>
 <html>
   <head>
+    <script type="text/javascript" src="hello.js"></script>
     <title>Hello</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width = device-width" />
+    <link rel="stylesheet" media="all" href="hello.css" />
   </head>
   <body>
     <p>
-      Hello
+      <a id="#hello"      onmouseover=log("Hello")      onclick=alert("Hello")>Hello</a>
     </p>
     <p>
-      こんにちは
+      <a id="#こんにちは" onmouseover=log("こんにちは") onclick=alert("こんにちは")>こんにちは</a>
     </p>
     <p>
-      привет
+      <a id="#привет"     onmouseover=log("привет")     onclick=alert("привет")>привет</a>
     </p>
   </body>
 </html>
