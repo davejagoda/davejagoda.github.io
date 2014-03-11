@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+    <title>OS X 10.9.2 Build Recipe</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <ol>
+      <li>Back everything up to another computer</li>
+      <li>Hold down Command+Option+P+R to reset PRAM (let it reboot twice)</li>
+      <li>Boot a Linux distro and shred the hard drive: shred -v /dev/sda</li>
+      <li>Power off, attach external install disk, power on</li>
+      <li>OS X will boot from external disk (this will take a while></li>
+      <li>Press Return to use English as the main language</li>
+      <li>Select Disk Utility, press Continue</li>
+      <li>Select the internal hard disk, clike Erase (at top)</li>
+      <li>Ensure Format is Mac OS Extended (Journaled)</li>
+      <li>Name the disk “HD”</li>
+      <li>Click Erase (near the bottom right), click Erase on popup</li>
+      <li>When it finishes, quit Disk Utility</li>
+      <li>Select Install OS X, press Continue</li>
+      <li>See the OS X Mavericks screen, click Continue</li>
+      <li>Click Agree, click Agree on popup</li>
+      <li>Select HD, click Install</li>
+      <li>It will display "about a second remaining" for about an hour</li>
+      <li>Eventually, it will display "Installing OS X of the disk HD"</li>
+      <li>Computer will restart, when it does, power off the external drive</li>
+      <li>Select United States, click Continue</li>
+      <li>Select U.S., click Continue</li>
+      <li>Do not select a network, click Continue, click Continue on popup</li>
+      <li>Select Don't transfer any information now, click Continue</li>
+      <li>Click Agree, click Agree on popup</li>
+      <li>Set account details, click Continue</li>
+      <li>Set ComputerName: scutil --set ComputerName HOSTNAME</li>
+      <li>Set HostName: scutil --set HostName HOSTNAME</li>
+      <li>Set LocalHostName: scutil --set LocalHostName HOSTNAME</li>
+      <li>HWReg</li>
+    </ol>
+  </body>
+</html>
