@@ -1,0 +1,18 @@
+Use Disk Utility to Format an external disk (make sure it's empty before beginning).
+
+Format it as MS-DOS (FAT).
+
+Name it OSX1092.
+
+Click Erase and confirm again (which will erase anything that was on there).
+
+Partition it with 1 partition, make it Mac OS Extended (Journaled).
+
+Label disk: Quantum6.45GB
+
+Click the Options button, pick GUID Partition Table and click OK.
+
+Click Apply and confirm to partition the disk.
+
+Install it:
+sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/Quantum6.45GB --applicationpath /Applications/Install\ OS\ X\ Mavericks.app --nointeraction
