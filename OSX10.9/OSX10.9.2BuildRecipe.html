@@ -7,32 +7,35 @@
   <body>
     <ol>
       <li>Back everything up to another computer</li>
-      <li>Hold down Command+Option+P+R to reset PRAM (let it reboot twice)</li>
-      <li>Boot a Linux distro and shred the hard drive: shred -v /dev/sda</li>
+      <li>Hold down <b>Command+Option+P+R</b> to reset PRAM (let it reboot twice)</li>
+      <li>Boot a Linux distro and shred the hard drive: <b>shred -v /dev/sda</b></li>
       <li>Power off, attach external install disk, power on</li>
       <li>OS X will boot from external disk (this will take a while></li>
       <li>Press Return to use English as the main language</li>
-      <li>Select Disk Utility, press Continue</li>
-      <li>Select the internal hard disk, clike Erase (at top)</li>
-      <li>Ensure Format is Mac OS Extended (Journaled)</li>
-      <li>Name the disk “HD”</li>
-      <li>Click Erase (near the bottom right), click Erase on popup</li>
-      <li>When it finishes, quit Disk Utility</li>
-      <li>Select Install OS X, press Continue</li>
-      <li>See the OS X Mavericks screen, click Continue</li>
-      <li>Click Agree, click Agree on popup</li>
-      <li>Select HD, click Install</li>
+      <li>Select <b>Disk Utility</b>, click <b>Continue</b></li>
+      <li>Select the internal hard disk, click <b>Erase</b> (at top)</li>
+      <li>Ensure Format is <b>Mac OS Extended (Journaled)</b></li>
+      <li>Name the disk <b>“HD”</b></li>
+      <li>Click <b>Erase</b> (near the bottom right), click <b>Erase</b> on popup</li>
+      <li>When it finishes, quit <b>Disk Utility</b></li>
+      <li>Select <b>Install OS X</b>, click <b>Continue</b></li>
+      <li>See the <b>OS X Mavericks</b> screen, click <b>Continue</b></li>
+      <li>Click <b>Agree</b>, click <b>Agree</b> on popup</li>
+      <li>Select <b>HD</b>, click <b>Install</b></li>
+      <li>It will display "Preparing to install. Your computer will restart automatically." for several minutes</li>
       <li>It will display "about a second remaining" for about an hour</li>
-      <li>Eventually, it will display <b>Installing OS X on the disk "HD"</b></li>
+      <li>Eventually, it will display <b>Installing OS X on the disk "HD"...</b></li>
       <li>Select <b>United States</b>, click <b>Continue</b></li>
       <li>Select <b>U.S.</b>, click <b>Continue</b></li>
-      <li>Do not select a network, click Continue, click Continue on popup</li>
-      <li>Select Don't transfer any information now, click Continue</li>
-      <li>Click Agree, click Agree on popup</li>
-      <li>Set account details, click Continue</li>
-      <li>Set ComputerName: scutil --set ComputerName <em>HOSTNAME</em></li>
-      <li>Set HostName: scutil --set HostName <em>HOSTNAME</em></li>
-      <li>Set LocalHostName: scutil --set LocalHostName <em>HOSTNAME</em></li>
+      <li>Do not select a network, click <b>Continue</b>, click <b>Continue</b> on popup</li>
+      <li>Select <b>Don't transfer any information now</b>, click <b>Continue</b></li>
+      <li>Click <b>Agree</b>, click <b>Agree</b> on popup</li>
+      <li>Set administrative account details, click <b>Continue</b>/li>
+      <li>Set ComputerName: <b>scutil --set ComputerName <em>HOSTNAME</em></b></li>
+      <li>Set HostName: <b>scutil --set HostName <em>HOSTNAME</em></b></li>
+      <li>Set LocalHostName: <b>scutil --set LocalHostName <em>HOSTNAME</em></b></li>
+      <li>Create a non-administrative user account</li>
+      <li>Shutdown the computer, power off the the external disk, and disconnect it</li>
       <li>HWReg</li>
     </ol>
   </body>
