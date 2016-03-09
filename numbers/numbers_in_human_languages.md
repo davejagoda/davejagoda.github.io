@@ -1,3 +1,3 @@
-| English | French  | Romaji   | Kanji |
-| ------- | ------- | -------- | ----- |
-| eleven  | onze    | ju-ichi  | 十一  |
+| English | French  | Romaji   | Kanji   |
+| ------- | ------- | -------- | ------- |
+| eleven  | onze    | ju-ichi  | &#21313 |
