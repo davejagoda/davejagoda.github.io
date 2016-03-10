@@ -2,6 +2,7 @@
 title: Title
 layout: default
 ---
+Body
 
 # Heading 1
 
