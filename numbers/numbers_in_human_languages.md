@@ -3,7 +3,7 @@ title: 1 to 20 in 3 languages
 ---
 
 | English   | French   | Japanese  |
-| --------- | -------- | --------- |
+|:----------|:---------|:----------|
 | one       | un       | ichi      |
 | two       | deux     | ni        |
 | three     | trois    | san       |
