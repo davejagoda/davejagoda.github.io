@@ -6,4 +6,4 @@ layout: default
 
 [10 to 100](10_to_100.html)
 
-[70_to_99](md70_to_99.html)
+[70 to 99](70_to_99.html)
