@@ -2,12 +2,12 @@
 title: dj
 layout: default
 ---
-[OS X](OSX)
+[OSX](OSX)
 
-[Old index.html page](old_index.html)
-
-[numbers](numbers)
+[Old index page](old_index.html)
 
 [best](best)
+
+[numbers](numbers)
 
 [useful](useful)
