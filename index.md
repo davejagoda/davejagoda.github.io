@@ -8,6 +8,8 @@ layout: default
 
 [best](best)
 
+[bookmarks](bookmarks)
+
 [data](data)
 
 [gitscussion](gitscussion)
