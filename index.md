@@ -14,8 +14,6 @@ layout: default
 
 [gitscussion](gitscussion)
 
-[heroku](heroku)
-
 [nual](nual)
 
 [numbers](numbers)
