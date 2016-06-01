@@ -12,8 +12,6 @@ layout: default
 
 [bookmarks](bookmarks)
 
-[data](data)
-
 [gitscussion](gitscussion)
 
 [jokes](jokes.html)
@@ -21,6 +19,8 @@ layout: default
 [nual](nual)
 
 [numbers](numbers)
+
+[programming languages](programming_languages)
 
 [quotes](quotes.html)
 
