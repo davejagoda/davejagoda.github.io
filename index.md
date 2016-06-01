@@ -6,6 +6,8 @@ layout: default
 
 [Old index page](old_index.html)
 
+[appleII](appleII)
+
 [best](best)
 
 [bookmarks](bookmarks)
@@ -14,8 +16,12 @@ layout: default
 
 [gitscussion](gitscussion)
 
+[jokes](jokes.html)
+
 [nual](nual)
 
 [numbers](numbers)
+
+[quotes](quotes.html)
 
 [useful](useful)
