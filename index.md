@@ -14,6 +14,8 @@ layout: default
 
 [gitscussion](gitscussion)
 
+[gnu](gnu)
+
 [jokes](jokes.html)
 
 [nual](nual)
