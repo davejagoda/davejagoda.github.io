@@ -1,5 +1,5 @@
 ---
-title: Formulate a "catechism":
+title: Heilmeier's catechism
 layout: default
 ---
 
