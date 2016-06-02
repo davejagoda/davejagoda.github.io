@@ -22,6 +22,8 @@ layout: default
 
 [numbers](numbers)
 
+[prd](prd)
+
 [programming languages](programming_languages)
 
 [quotes](quotes.html)
