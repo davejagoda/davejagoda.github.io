@@ -12,6 +12,8 @@ layout: default
 
 [bookmarks](bookmarks)
 
+[books](books)
+
 [gitscussion](gitscussion)
 
 [gnu](gnu)
