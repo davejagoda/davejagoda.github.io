@@ -1,0 +1,19 @@
+table {
+    text-align: center;
+    font-size: xx-large;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+td {
+    text-align:center;
+}
+td.corner {
+    background-color: red;
+}
+td.edge {
+    background-color: yellow;
+}
+td.middle {
+    background-color: green;
+}
