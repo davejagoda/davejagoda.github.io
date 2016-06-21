@@ -29,11 +29,10 @@ Things associated with C
 Languages written in C
 ----------------------
 
-- [Python](python) (CPython)
 - [Perl](perl)
-- [Ruby](ruby) (MRI)
-- [Java](java) (JRE)
-
+- [Python](python) CPython
+- [Java](java) JRE
+- [Ruby](ruby) MRI
 
 Example program
 ---------------
@@ -41,9 +40,9 @@ Example program
 ```c
 #include <stdio.h>
 
-int main()
+main()
 {
-  printf("hello\n");
+    printf("hello, world\n");
 }
 ```
 
