@@ -67,7 +67,7 @@ unix
 `ntpdc -c sysinfo`
 
 OS X
----
+----
 
 `mdutil -a -i off`
 
@@ -94,3 +94,14 @@ OS X
 `system_profiler SPStorageDataType`
 
 `systemsetup -gettimezone`
+
+Ubuntu
+------
+
+`sudo apt-get update`
+
+`sudo apt-get upgrade`
+
+`sudo apt-get dist-upgrade`
+
+`sudo apt autoremove`
