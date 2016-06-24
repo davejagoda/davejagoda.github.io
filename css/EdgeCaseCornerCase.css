@@ -6,7 +6,7 @@ table {
     position: absolute;
 }
 td {
-    text-align:center;
+    text-align: center;
 }
 td.corner {
     background-color: red;

@@ -1,6 +1,12 @@
 /* https://css-tricks.com/snippets/css/css3-zebra-striping-a-table/ */
 tbody tr:nth-child(odd) { background: #eee }
 
+table { width: 100% }
+
+td, th { border: 1px solid #999 }
+
+td { text-align: left; vertical-align: top }
+
 /* from https://github.com/richleland/pygments-css/blob/master/github.css */
 .highlight .hll { background-color: #ffffcc }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
