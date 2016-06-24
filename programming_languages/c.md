@@ -20,8 +20,10 @@ According the TIOBE language index, it is currently the 2nd most popular program
 Things associated with C
 ------------------------
 
-- portable assembly language
+- portable [assembly language](assembly)
 - with great power comes great responsibility
+- speed
+- control
 - memory management
 - pointers
 - core dumps
