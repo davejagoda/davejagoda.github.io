@@ -37,7 +37,7 @@ example program
 
 from wikipedia
 
-```asm
+```
 adosseg
 .model small
 .stack 100h
