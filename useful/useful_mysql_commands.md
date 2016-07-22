@@ -3,4 +3,4 @@ title: Useful MySQL Commands
 layout: appleII
 ---
 
-`mysql mysql -u username -p`
+`mysql <dbname> -u <username> -p`
