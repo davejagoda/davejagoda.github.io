@@ -20,6 +20,8 @@ layout: default
 
 [jokes](jokes.html)
 
+[laws](laws)
+
 [nual](nual)
 
 [numbers](numbers)
