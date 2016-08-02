@@ -7,6 +7,10 @@ layout: appleII
 
 `show databases;`
 
+`select user, host from mysql.user;`
+
+`use <dbname>`
+
 `show tables;`
 
 `show tables like "%users%";`
