@@ -6,23 +6,23 @@ layout: default
 crypto
 ------
 
-[useful openssl commands](useful_openssl_commands.html)
+[useful openssl commands](useful_openssl_commands)
 
 database
 --------
 
-[useful postgresql commands](useful_postgresql_commands.html)
+[useful postgresql commands](useful_postgresql_commands)
 
-[useful oracle commands](useful_oracle_commands.html)
+[useful oracle commands](useful_oracle_commands)
 
-[useful mysql commands](useful_mysql_commands.html)
+[useful mysql commands](useful_mysql_commands)
 
 network
 -------
 
-[useful cisco ios commands](useful_ciscoios_commands.html)
+[useful cisco ios commands](useful_ciscoios_commands)
 
 operating systems
 -----------------
 
-[useful unix commands](useful_unix_commands.html)
+[useful unix commands](useful_unix_commands)
