@@ -34,4 +34,6 @@ layout: default
 
 [quotes](quotes.html)
 
+[status](status)
+
 [useful](useful)
