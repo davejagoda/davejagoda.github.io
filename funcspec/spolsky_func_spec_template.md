@@ -1,5 +1,9 @@
-Product Title Functional Specification
-======================================
+---
+title: func spec template
+layout: default
+---
+Foo Functional Specification
+============================
 
 Overview
 --------

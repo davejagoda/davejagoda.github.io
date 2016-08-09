@@ -14,6 +14,8 @@ layout: default
 
 [books](books)
 
+[functional specifications](funcspec)
+
 [gitscussion](gitscussion)
 
 [gnu](gnu)
@@ -26,7 +28,7 @@ layout: default
 
 [numbers](numbers)
 
-[prd](prd)
+[product requirements documents](prd)
 
 [programming languages](programming_languages)
 
