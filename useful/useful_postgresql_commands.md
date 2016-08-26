@@ -11,7 +11,9 @@ layout: appleII
 
 `\c <dbname>`
 
-`\d`
+`\d [<tablename>]`
+
+`\d+ [<tablename>]`
 
 `\du`
 
