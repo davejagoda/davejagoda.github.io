@@ -40,6 +40,12 @@ git
 
 `git push -u origin feature/frobnicate-dj`
 
+`git rebase -i HEAD~1`
+
+`git commit --amend`
+
+`git rebase --continue`
+
 Github
 ------
 
