@@ -27,6 +27,8 @@ operating systems
 
 [useful unix commands](useful_unix_commands)
 
+[useful heroku commands](useful_heroku_commands)
+
 version control
 ---------------
 
