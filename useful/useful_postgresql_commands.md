@@ -3,7 +3,15 @@ title: Useful PostgreSQL Commands
 layout: appleII
 ---
 
+from command line
+-----------------
+
 `psql -U postgres`
+
+`createuser`
+
+from psql
+---------
 
 `\q`
 
@@ -16,5 +24,3 @@ layout: appleII
 `\d+ [<tablename>]`
 
 `\du`
-
-`createuser`
