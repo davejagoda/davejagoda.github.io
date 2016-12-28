@@ -6,6 +6,10 @@ layout: appleII
 from command line
 -----------------
 
+`mysqld --datadir ~/db/mysql5.7`
+
+`mysqladmin -u root -p shutdown`
+
 `mysql <dbname> -u <username> -p`
 
 `mysqladmin -u <username> -p create <dbname>`
