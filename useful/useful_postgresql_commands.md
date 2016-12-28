@@ -6,6 +6,10 @@ layout: appleII
 from command line
 -----------------
 
+`pg_ctl -D ~/db/postgres9.6 -l ~/db/postgres9.6/logfile start`
+
+`pg_ctl -D ~/db/postgres9.6 stop`
+
 `psql -U postgres`
 
 `createuser`
