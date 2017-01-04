@@ -6,6 +6,8 @@ layout: default
 
 [Old index page](old_index.html)
 
+[apache](apache)
+
 [appleII](appleII)
 
 [best](best)
