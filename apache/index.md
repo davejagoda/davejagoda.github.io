@@ -25,3 +25,11 @@ Bibliography
 ------------
 
 [List of Apache modules](https://en.wikipedia.org/wiki/List_of_Apache_modules)
+
+[About mod_perl](http://perl.apache.org/about/history.html)
+
+[The Road to PHP](http://talks.php.net/show/community/2)
+
+[History of Mod_python](http://modpython.org/live/current/doc-html/license.html)
+
+[Embedding Ruby in the Apache web server](https://github.com/shugo/mod_ruby)
