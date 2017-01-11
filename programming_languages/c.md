@@ -11,7 +11,7 @@ History
 
 The language was named as the successor to the B language:
 
-[ALGOL 60](algol) -> CPL -> BCPL -> B -> [C](c)
+ALGOL 60 -> CPL -> BCPL -> B -> [C](c.html)
 
 Developed by Dennis Ritchie at Bell Labs
 
@@ -20,7 +20,7 @@ According the TIOBE language index, it is currently the 2nd most popular program
 Things associated with C
 ------------------------
 
-- portable [assembly language](assembly)
+- portable [assembly language](assembly.html)
 - with great power comes great responsibility
 - speed
 - control
@@ -31,10 +31,10 @@ Things associated with C
 Languages written in C
 ----------------------
 
-- [Perl](perl)
-- [Python](python) CPython
-- [Java](java) JRE
-- [Ruby](ruby) MRI
+- Perl
+- Python *CPython*
+- Java *JRE*
+- Ruby *MRI*
 
 Example program
 ---------------

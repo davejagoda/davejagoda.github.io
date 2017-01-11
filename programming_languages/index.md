@@ -11,8 +11,8 @@ Tour of some programming languages
 
 These are in chronological order
 
-[Assembly - 1949](assembly)
+[Assembly - 1949](assembly.html)
 
-[Fortran - 1956](fortran)
+[Fortran - 1956](fortran.html)
 
-[C - 1972](c)
+[C - 1972](c.html)

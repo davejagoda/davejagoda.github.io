@@ -2,6 +2,6 @@
 title: dj
 layout: default
 ---
-[OSX image sums](OSX_image_sums)
+[OSX image sums](OSX_image_sums.html)
 
-[brew and friends](brew_and_friends)
+[brew and friends](brew_and_friends.html)

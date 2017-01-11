@@ -17,7 +17,7 @@ Still in use today - the Lindy effect
 
 Considered a high level programming language
 
-Intended as an alternative to [assembly language](assembly) for the IBM 704 mainframe
+Intended as an alternative to [assembly language](assembly.html) for the IBM 704 mainframe
 
 Example program
 ---------------

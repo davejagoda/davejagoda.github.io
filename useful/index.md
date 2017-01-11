@@ -6,32 +6,32 @@ layout: default
 crypto
 ------
 
-[useful openssl commands](useful_openssl_commands)
+[useful openssl commands](useful_openssl_commands.html)
 
 database
 --------
 
-[useful postgresql commands](useful_postgresql_commands)
+[useful postgresql commands](useful_postgresql_commands.html)
 
-[useful oracle commands](useful_oracle_commands)
+[useful oracle commands](useful_oracle_commands.html)
 
-[useful mysql commands](useful_mysql_commands)
+[useful mysql commands](useful_mysql_commands.html)
 
 network
 -------
 
-[useful cisco ios commands](useful_ciscoios_commands)
+[useful cisco ios commands](useful_ciscoios_commands.html)
 
 operating systems
 -----------------
 
-[useful unix commands](useful_unix_commands)
+[useful unix commands](useful_unix_commands.html)
 
-[useful heroku commands](useful_heroku_commands)
+[useful heroku commands](useful_heroku_commands.html)
 
-[useful virtualbox commands](useful_virtualbox_commands)
+[useful virtualbox commands](useful_virtualbox_commands.html)
 
 version control
 ---------------
 
-[useful git commands](useful_git_commands)
+[useful git commands](useful_git_commands.html)
