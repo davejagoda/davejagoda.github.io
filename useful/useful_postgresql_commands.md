@@ -1,5 +1,5 @@
 ---
-title: Useful PostgreSQL Commands
+title: Useful PostgreSQL commands
 layout: appleII
 ---
 

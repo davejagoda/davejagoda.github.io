@@ -1,5 +1,5 @@
 ---
-title: Useful Heroku Commands
+title: Useful Heroku commands
 layout: appleII
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Useful cisco IOS Commands
+title: Useful cisco IOS commands
 layout: appleII
 ---
 

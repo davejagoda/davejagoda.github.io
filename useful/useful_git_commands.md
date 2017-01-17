@@ -1,5 +1,5 @@
 ---
-title: Useful Git Commands
+title: Useful git commands
 layout: appleII
 ---
 

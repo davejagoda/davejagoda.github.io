@@ -11,11 +11,15 @@ crypto
 database
 --------
 
-[useful postgresql commands](useful_postgresql_commands.html)
+[useful database commands](useful_database_commands.html)
+
+[useful mysql commands](useful_mysql_commands.html)
 
 [useful oracle commands](useful_oracle_commands.html)
 
-[useful mysql commands](useful_mysql_commands.html)
+[useful postgresql commands](useful_postgresql_commands.html)
+
+[useful sqlite commands](useful_sqlite_commands.html)
 
 network
 -------

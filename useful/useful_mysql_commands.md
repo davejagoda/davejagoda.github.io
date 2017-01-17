@@ -1,5 +1,5 @@
 ---
-title: Useful MySQL Commands
+title: Useful MySQL commands
 layout: appleII
 ---
 

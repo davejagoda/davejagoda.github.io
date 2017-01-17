@@ -1,5 +1,5 @@
 ---
-title: Useful OpenSSL Commands
+title: Useful OpenSSL commands
 layout: appleII
 ---
 

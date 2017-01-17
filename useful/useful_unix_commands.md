@@ -1,5 +1,5 @@
 ---
-title: Useful Unix Commands
+title: Useful Unix commands
 layout: appleII
 ---
 
