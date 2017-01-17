@@ -1,6 +1,10 @@
 body {
-    color: #14F53C;
+    color: #14f53c;
     background: black;
     text-align: left;
-    font-family: monospace;
+    font-family: monospace
 }
+
+td, th { border: 1px solid white }
+
+td { text-align: left; vertical-align: top }
