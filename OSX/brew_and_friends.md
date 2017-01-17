@@ -14,12 +14,18 @@ Install Emacs
 -------------
 ```brew install emacs```
 
-Install Python
---------------
+Install Python2
+---------------
 ```
 brew install python
-pip install --upgrade pip
-pip install virtualenv
+pip install --upgrade pip setuptools virtualenv wheel
+```
+
+Install Python3
+---------------
+```
+brew install python3
+pip3 install --upgrade pip setuptools virtualenv wheel
 ```
 
 Install Ruby
