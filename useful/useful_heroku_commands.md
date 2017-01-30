@@ -20,6 +20,10 @@ apps
 
 `heroku apps:info -r staging`
 
+`heroku destroy -a targetapp`
+
+`heroku fork --from sourceapp --to targetapp`
+
 remotes
 -------
 
@@ -51,6 +55,8 @@ postgres
 --------
 
 `heroku pg`
+
+`heroku pg:info`
 
 `heroku pg:psql`
 

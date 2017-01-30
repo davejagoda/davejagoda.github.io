@@ -16,6 +16,10 @@ heroku
 
 [Heroku Local](https://devcenter.heroku.com/articles/heroku-local)
 
+[Forking Applications](https://devcenter.heroku.com/articles/fork-app)
+
+[Git Cloning Existing Heroku Applications](https://devcenter.heroku.com/articles/git-clone-heroku-app)
+
 rants
 -----
 [Rails Is A Ghetto](http://harmful.cat-v.org/software/ruby/rails/is-a-ghetto)
