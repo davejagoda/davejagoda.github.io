@@ -44,6 +44,13 @@ config
 
 `heroku config:unset SECRET_KEY`
 
+keys
+----
+
+`heroku keys`
+
+`heroku keys:add`
+
 local
 -----
 
