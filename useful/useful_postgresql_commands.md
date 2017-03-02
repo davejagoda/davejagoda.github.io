@@ -21,6 +21,10 @@ from psql
 
 `\l`
 
+'\dn'
+
+'\dn+'
+
 `\c <dbname>`
 
 `\d [<tablename>]`
