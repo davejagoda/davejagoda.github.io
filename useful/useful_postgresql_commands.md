@@ -21,9 +21,9 @@ from psql
 
 `\l`
 
-'\dn'
+`\dn`
 
-'\dn+'
+`\dn+`
 
 `\c <dbname>`
 
