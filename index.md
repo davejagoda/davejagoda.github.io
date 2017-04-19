@@ -34,6 +34,8 @@ layout: default
 
 [programming languages](programming_languages)
 
+[proggy](proggy)
+
 [quotes](quotes.html)
 
 [status](status)
