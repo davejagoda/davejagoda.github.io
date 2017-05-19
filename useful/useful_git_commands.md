@@ -46,6 +46,8 @@ git
 
 `git rebase --continue`
 
+`git remote add upstream https://github/scrognate/frobnicate.git`
+
 Github
 ------
 
