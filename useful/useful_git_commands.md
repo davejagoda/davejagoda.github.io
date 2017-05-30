@@ -34,11 +34,15 @@ git
 
 `git branch -a`
 
-`git checkout feature/frobnicate`
+`git checkout feature/frobnicate-dj`
 
 `git checkout -b feature/frobnicate-dj`
 
 `git push -u origin feature/frobnicate-dj`
+
+`git branch -d feature/frobnicate-dj`
+
+`git push origin --delete feature/frobnicate-dj`
 
 `git rebase -i HEAD~1`
 
