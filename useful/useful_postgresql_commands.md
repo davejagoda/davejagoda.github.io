@@ -17,6 +17,8 @@ from command line
 from psql
 ---------
 
+`\?`
+
 `\q`
 
 `\l`
@@ -31,4 +33,10 @@ from psql
 
 `\d+ [<tablename>]`
 
+`\dt *.*`
+
 `\du`
+
+`\o /tmp/psql.out`
+
+`\o`
