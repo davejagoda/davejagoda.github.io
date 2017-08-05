@@ -20,9 +20,11 @@ apps
 
 `heroku apps:info -r staging`
 
-`heroku destroy -a targetapp`
+`heroku releases -a targetapp`
 
 `heroku fork --from sourceapp --to targetapp`
+
+`heroku destroy -a targetapp`
 
 remotes
 -------
