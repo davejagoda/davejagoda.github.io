@@ -29,13 +29,15 @@ from psql
 
 `\c <dbname>`
 
-`\d [<tablename>]`
+`\d [<tablename>|<viewname>]`
 
-`\d+ [<tablename>]`
+`\d+ [<tablename>|<viewname>]`
 
 `\dt *.*`
 
 `\du`
+
+`\dv`
 
 `\o /tmp/psql.out`
 

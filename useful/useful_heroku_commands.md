@@ -77,3 +77,7 @@ django
 `heroku run python manage.py createsuperuser`
 
 `heroku run python manage.py migrate`
+
+`heroku run python manage.py check`
+
+`heroku run python manage.py dumpdata [app_label.ModelName]`
