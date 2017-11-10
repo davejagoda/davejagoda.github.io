@@ -217,3 +217,9 @@ exercise it intelligently.
 > Genius without education is like silver in the mine.
 
 \- Benjamin Franklin
+
+> If I were to write a book about how to build non-scalable Oracle
+  applications, then Don't use Bind Variables would be the first and
+  last chapter.
+
+\- Thomas Kyte
