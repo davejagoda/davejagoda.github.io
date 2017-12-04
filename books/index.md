@@ -17,6 +17,8 @@ Frank, Thomas (2016). *Listen, Liberal*.
 fiction
 -------
 
+Boulle, Pierre (1954). *The Bridge over the River Kwai*.
+
 Clavell, James (1962). *King Rat*.
 
 Card, Orson Scott (1977). *Ender's Game*.
