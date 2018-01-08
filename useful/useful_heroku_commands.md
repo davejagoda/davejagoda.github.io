@@ -60,6 +60,17 @@ local
 
 `heroku local web`
 
+login
+-----
+
+`heroku login`
+
+`export HEROKU_ORGANIZATION=your_organization`
+
+`heroku login --sso`
+
+`heroku whoami`
+
 postgres
 --------
 
