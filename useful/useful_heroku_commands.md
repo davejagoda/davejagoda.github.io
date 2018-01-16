@@ -92,3 +92,5 @@ django
 `heroku run python manage.py check`
 
 `heroku run python manage.py dumpdata [app_label.ModelName]`
+
+`heroku run python manage.py shell -c 'from django.contrib.auth.models import User; print(User.objects.make_random_password())'`
