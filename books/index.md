@@ -16,7 +16,9 @@ Grove, Andrew S. (2001). *Swimming Across*.
 
 Lyons, Dan (2016). *Disrupted*.
 
-Orwell, George (1937). *The Road to Wigan Pier*
+Orwell, George (1937). *The Road to Wigan Pier*.
+
+Orwell, George (1949). *Nineteen Eighty-Four*.
 
 fiction
 -------
