@@ -10,6 +10,8 @@ layout: default
 
 [appleII](appleII)
 
+[atari2600](atari2600)
+
 [best](best)
 
 [bookmarks](bookmarks)
