@@ -24,6 +24,8 @@ apps
 
 `heroku fork --from sourceapp --to targetapp`
 
+`heroku create -a targetapp`
+
 `heroku destroy -a targetapp`
 
 remotes
