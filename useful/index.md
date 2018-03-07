@@ -31,6 +31,8 @@ operating systems
 
 [useful unix commands](useful_unix_commands.html)
 
+[useful aws commands](useful_aws_commands.html)
+
 [useful heroku commands](useful_heroku_commands.html)
 
 [useful virtualbox commands](useful_virtualbox_commands.html)
