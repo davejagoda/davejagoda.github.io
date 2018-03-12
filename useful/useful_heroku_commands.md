@@ -28,6 +28,14 @@ apps
 
 `heroku destroy -a targetapp`
 
+regions
+-------
+`heroku regions`
+
+`heroku regions --common`
+
+`curl -n -X GET https://api.heroku.com/regions/us -H "Accept: application/vnd.heroku+json; version=3"`
+
 remotes
 -------
 
