@@ -5,7 +5,6 @@ layout: appleII
 
 apps
 ----
-
 `heroku apps`
 
 `heroku apps -A`
@@ -38,7 +37,6 @@ regions
 
 remotes
 -------
-
 `heroku git:remote -a davejagoda -r production`
 
 `heroku git:remote -a davejagoda-staging -r staging`
@@ -49,7 +47,6 @@ remotes
 
 config
 ------
-
 `heroku config`
 
 `heroku config:set SECRET_KEY=u'<SECRET_STUFF>'`
@@ -58,21 +55,18 @@ config
 
 keys
 ----
-
 `heroku keys`
 
 `heroku keys:add`
 
 local
 -----
-
 `heroku local`
 
 `heroku local web`
 
 login
 -----
-
 `heroku login`
 
 `export HEROKU_ORGANIZATION=your_organization`
@@ -81,9 +75,12 @@ login
 
 `heroku whoami`
 
+addons
+------
+`heroku addons:create papertrail:choklad --name papertrail-targetapp -a targetapp`
+
 postgres
 --------
-
 `heroku pg`
 
 `heroku pg:info`
@@ -94,7 +91,6 @@ postgres
 
 django
 ------
-
 `heroku run python manage.py createsuperuser`
 
 `heroku run python manage.py migrate`
