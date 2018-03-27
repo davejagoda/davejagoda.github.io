@@ -30,6 +30,8 @@ git
 
 `git fetch`
 
+`git fetch --prune`
+
 `git rebase`
 
 `git branch -a`
