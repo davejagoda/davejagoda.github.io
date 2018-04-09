@@ -29,4 +29,6 @@ Card, Orson Scott (1977). *Ender's Game*.
 
 Clavell, James (1962). *King Rat*.
 
+Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*
+
 Simmons, Dan (2011). *Flashback*.
