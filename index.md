@@ -24,6 +24,8 @@ layout: default
 
 [gnu](gnu)
 
+[heroku](heroku)
+
 [jokes](jokes.html)
 
 [laws](laws)
