@@ -87,7 +87,9 @@ postgres
 
 `heroku pg:psql`
 
-`heroku pg:psql -r production cobalt`
+`heroku pg:psql -r production COLOR`
+
+`heroku pg:promote COLOR`
 
 django
 ------
