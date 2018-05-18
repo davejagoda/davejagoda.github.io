@@ -34,6 +34,8 @@ layout: default
 
 [numbers](numbers)
 
+[opensource](opensource)
+
 [product requirements documents](prd)
 
 [programming languages](programming_languages)
