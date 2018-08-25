@@ -8,6 +8,8 @@ books
 non-fiction
 -----------
 
+Berlin, Isaiah (1953). *The Hedgehog and the Fox*.
+
 Chang, Ha-Joon (2011). *23 Things They Don't Tell You About Capitalism*.
 
 Frank, Thomas (2016). *Listen, Liberal*.
