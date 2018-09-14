@@ -3,6 +3,11 @@ title: useful
 layout: default
 ---
 
+browser
+-------
+
+[useful chrome commands](useful_chrome_commands.html)
+
 crypto
 ------
 
