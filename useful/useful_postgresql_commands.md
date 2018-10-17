@@ -42,3 +42,5 @@ from psql
 `\o /tmp/psql.out`
 
 `\o`
+
+`SELECT current_time;`
