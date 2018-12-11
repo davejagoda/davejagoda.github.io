@@ -46,9 +46,11 @@ OS X
 
 `mdutil -a -i on`
 
-`networksetup -setairportpower en1 off`
+`networksetup -setairportpower en0 off`
 
-`networksetup -setairportpower en1 on`
+`networksetup -setairportpower en0 on`
+
+`networksetup -listpreferredwirelessnetworks en0`
 
 `systemsetup -getnetworktimeserver`
 
