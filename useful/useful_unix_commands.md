@@ -52,6 +52,8 @@ OS X
 
 `networksetup -listpreferredwirelessnetworks en0`
 
+`networksetup -listallhardwareports`
+
 `systemsetup -getnetworktimeserver`
 
 `diskutil list`
