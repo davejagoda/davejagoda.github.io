@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Rsync Between Linux and OSX</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    Here are some of the problems that may be encountered.
+
+    <h3>rsync: delete_file: rmdir "/Users/dj/Name" failed: Directory not empty (66)</h3>
+
+    Possible cause: You have a directory called "Name" and a file
+    called "name" on the Linux machine (or other combinations such
+    that they are seen as the same on the OSX side). In order to
+    encounter this, OSX will be using a case-insensitive file system,
+    which is the default.
+
+    <h3>rsync keeps transferring some files repeatedly</h3>
+
+    Possible cause: You have a file which has a name containing
+    non-ASCII characters (e.g. "José") that can be composed more than
+    one way. Quoting from
+    https://developer.apple.com/library/archive/technotes/tn/tn1150.html#UnicodeSubtleties :
+
+    <blockquote>
+      For example, the character "é" can be represented as the single
+      Unicode character u+00E9 (latin small letter e with acute), or
+      as the two Unicode characters u+0065 and u+0301 (the letter "e"
+      plus a combining acute symbol).
+    </blockquote>
+
+    OS X will always store the fully decomposed (also known as NFD)
+    name, while Linux preserves whatever name it is presented. So on
+    Linux, you could have two files named "José", one with an NFD
+    name, and other with a composed (also known as NFC) name. On OS X,
+    those two files would map to the same name, causing one to be
+    overwritten on each rsync from Linux.
+  </body>
+</html>
