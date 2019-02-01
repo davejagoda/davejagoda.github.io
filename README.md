@@ -3,6 +3,10 @@ title: README
 layout: default
 ---
 
-This is a test of github pages.
+Install and run locally
+=======================
 
-Let's see how this looks.
+```
+bundle install --path vendor/bundle
+bundle exec jekyll serve
+```
