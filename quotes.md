@@ -223,3 +223,7 @@ exercise it intelligently.
   last chapter.
 
 \- Thomas Kyte
+
+> Everyone has a plan 'til they get punched in the mouth.
+
+\- Mike Tyson
