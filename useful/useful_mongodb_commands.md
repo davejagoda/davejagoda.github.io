@@ -22,3 +22,8 @@ from mongo shell
 `db.<collectionname>.find()`
 
 `quit()`
+
+resources
+---------
+
+[SQL to MongoDB Mappping Chart](https://docs.mongodb.com/manual/reference/sql-comparison/#sql-to-mongodb-mapping-chart)
