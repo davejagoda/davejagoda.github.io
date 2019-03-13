@@ -36,6 +36,8 @@ git
 
 `git branch -a`
 
+`git branch -vv`
+
 `git checkout feature/frobnicate-dj`
 
 `git checkout -b feature/frobnicate-dj`
