@@ -5,12 +5,17 @@ layout: default
 books
 =====
 
-non-fiction
------------
-
 Berlin, Isaiah (1953). *The Hedgehog and the Fox*.
 
+Boulle, Pierre (1954). *The Bridge over the River Kwai*.
+
+Card, Orson Scott (1977). *Ender's Game*.
+
 Chang, Ha-Joon (2011). *23 Things They Don't Tell You About Capitalism*.
+
+Clavell, James (1962). *King Rat*.
+
+Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*
 
 Frank, Thomas (2016). *Listen, Liberal*.
 
@@ -24,15 +29,6 @@ Orwell, George (1937). *The Road to Wigan Pier*.
 
 Orwell, George (1949). *Nineteen Eighty-Four*.
 
-fiction
--------
-
-Boulle, Pierre (1954). *The Bridge over the River Kwai*.
-
-Card, Orson Scott (1977). *Ender's Game*.
-
-Clavell, James (1962). *King Rat*.
-
-Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*
+Parkinson, Cyril Northcote (1957). *Parkinson's Law, and Other Studies in Administration*
 
 Simmons, Dan (2011). *Flashback*.
