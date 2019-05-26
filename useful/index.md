@@ -45,6 +45,8 @@ operating systems
 
 [useful aws commands](useful_aws_commands.html)
 
+[useful docker commands](useful_docker_commands.html)
+
 [useful heroku commands](useful_heroku_commands.html)
 
 [useful virtualbox commands](useful_virtualbox_commands.html)
