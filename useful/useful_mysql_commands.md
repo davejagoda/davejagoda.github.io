@@ -32,3 +32,5 @@ from mysql
 `show tables like "%users%";`
 
 `describe users;`
+
+`show table status;`
