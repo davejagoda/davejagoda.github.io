@@ -18,6 +18,8 @@ layout: default
 
 [books](books)
 
+[common gateway interface](cgi)
+
 [functional specifications](funcspec)
 
 [gitscussion](gitscussion)
