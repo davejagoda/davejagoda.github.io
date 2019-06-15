@@ -36,3 +36,5 @@ Parkinson, Cyril Northcote (1957). *Parkinson's Law, and Other Studies in Admini
 Perkins, John (2004). *Confessions of an Economic Hit Man*.
 
 Simmons, Dan (2011). *Flashback*.
+
+Stein, Samuel (2019). *Capital City: Gentrification and the Real Estate State*.
