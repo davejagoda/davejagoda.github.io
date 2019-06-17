@@ -41,4 +41,6 @@ Perkins, John (2004). *Confessions of an Economic Hit Man*.
 
 Simmons, Dan (2011). *Flashback*.
 
+Sowell, Thomas (2000). *A Personal Odyssey*.
+
 Stein, Samuel (2019). *Capital City: Gentrification and the Real Estate State*.
