@@ -19,6 +19,8 @@ Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
 
 Frank, Thomas (2016). *Listen, Liberal*.
 
+Gibson, William (1986). *Burning Chrome*.
+
 Gibson, William (2014). *The Peripheral*.
 
 Grove, Andrew S. (2001). *Swimming Across*.
