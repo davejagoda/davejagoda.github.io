@@ -10,13 +10,15 @@ from command line
 
 `mysqladmin -u root -p shutdown`
 
-`mysql <dbname> -u <username> -p`
+`mysql -u <username> -p <dbname>`
 
-`mysql <dbname> -u <username> -p<password>`
+`mysql -u <username> -p<password> <dbname>`
 
 `mysqladmin -u <username> -p create <dbname>`
 
 `mysqladmin -u <username> -p drop <dbname>`
+
+`mysql -u <username> -p -e "CREATE USER 'user'@'localhost' IDENTIFIED BY 'pass';"`
 
 from mysql
 ----------
