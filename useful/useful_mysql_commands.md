@@ -20,6 +20,8 @@ from command line
 
 `mysql -u <username> -p -e "CREATE USER 'user'@'localhost' IDENTIFIED BY 'pass';"`
 
+`mysql -u <username> -p -e "DROP USER 'user'@'localhost';"`
+
 from mysql
 ----------
 
