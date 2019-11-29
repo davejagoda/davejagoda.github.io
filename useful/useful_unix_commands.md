@@ -39,6 +39,10 @@ unix
 
 `ntpdc -c sysinfo`
 
+`TZ=UTC touch -t 197001010000 /tmp/marker`
+
+`stat /tmp/marker`
+
 OS X
 ----
 
