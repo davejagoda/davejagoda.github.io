@@ -6,83 +6,97 @@ layout: appleII
 ssh
 ---
 
-`ssh-keygen -t rsa -C `uname -n``
+```
+ssh-keygen -t rsa -C $(uname -n)
 
-`ssh-keygen -p -f ~/.ssh/id_rsa`
+ssh-keygen -p -f ~/.ssh/id_rsa
 
-`ssh-add`
+ssh-add
+```
 
 python
 ------
 
-`python -i script.py`
+```
+python -i script.py
+```
 
 ruby
 ----
 
-`bundle install --path vendor/bundle`
+```
+bundle install --path vendor/bundle
 
-`bundle exec jekyll s`
+bundle exec jekyll s
+```
 
 unix
 ----
 
-`find -x / -newer /tmp/marker > /tmp/changedfiles.txt`
+```
+find -x / -newer /tmp/marker > /tmp/changedfiles.txt
 
-`grep -Ri searchstring . 2> /tmp/err > /tmp/out`
+grep -Ri searchstring . 2> /tmp/err > /tmp/out
 
-`grep -r ' $' *`
+grep -r ' $' *
 
-`grep -r '^ ' *`
+grep -r '^ ' *
 
-`curl -kvI https://www.google.com`
+curl -kvI https://www.google.com
 
-`ntpdc -c sysinfo`
+ntpdc -c sysinfo
 
-`TZ=UTC touch -t 197001010000 /tmp/marker`
+TZ=UTC touch -t 197001010000 /tmp/marker
 
-`stat /tmp/marker`
+stat /tmp/marker
+```
 
 OS X
 ----
 
-`mdutil -a -i off`
+```
+dot_clean
 
-`mdutil -a -i on`
+mdutil -a -i off
 
-`networksetup -setairportpower en0 off`
+mdutil -a -i on
 
-`networksetup -setairportpower en0 on`
+networksetup -setairportpower en0 off
 
-`networksetup -listpreferredwirelessnetworks en0`
+networksetup -setairportpower en0 on
 
-`networksetup -listallhardwareports`
+networksetup -listpreferredwirelessnetworks en0
 
-`systemsetup -getnetworktimeserver`
+networksetup -listallhardwareports
 
-`diskutil list`
+systemsetup -getnetworktimeserver
 
-`diskutil info disk0`
+diskutil list
 
-`diskutil info disk0s1`
+diskutil info disk0
 
-`diskutil info disk0s2`
+diskutil info disk0s1
 
-`mdls photo.jpg`
+diskutil info disk0s2
 
-`plutil -convert xml1 -o - file.plist`
+mdls photo.jpg
 
-`system_profiler SPStorageDataType`
+plutil -convert xml1 -o - file.plist
 
-`systemsetup -gettimezone`
+system_profiler SPStorageDataType
+
+systemsetup -gettimezone
+```
 
 Ubuntu
 ------
 
-`sudo apt-get update`
+```
+sudo apt-get update
 
-`sudo apt-get upgrade`
+sudo apt-get upgrade
 
-`sudo apt-get dist-upgrade`
+sudo apt-get dist-upgrade
 
-`sudo apt autoremove`
+sudo apt autoremove
+```
