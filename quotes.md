@@ -227,3 +227,7 @@ exercise it intelligently.
 > Everyone has a plan 'til they get punched in the mouth.
 
 \- Mike Tyson
+
+> I'm working my way over to figuring out how I won't answer that.
+
+\- Donald Rumsfeld
