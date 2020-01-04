@@ -9,6 +9,8 @@ ssh
 ```
 ssh-keygen -t rsa -C $(uname -n)
 
+ssh-keygen -y -f ~/.ssh/id_rsa
+
 ssh-keygen -p -f ~/.ssh/id_rsa
 
 ssh-add
