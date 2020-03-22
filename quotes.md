@@ -218,16 +218,26 @@ exercise it intelligently.
 
 \- Benjamin Franklin
 
+
 > If I were to write a book about how to build non-scalable Oracle
   applications, then Don't use Bind Variables would be the first and
   last chapter.
 
 \- Thomas Kyte
 
+
 > Everyone has a plan 'til they get punched in the mouth.
 
 \- Mike Tyson
 
+
 > I'm working my way over to figuring out how I won't answer that.
 
 \- Donald Rumsfeld
+
+
+> The recovery in profitability has been amazing following the
+  reorganisation, leaving Barings to conclude that it was not actually
+  terribly difficult to make money in the securities business.
+
+\- Peter Baring
