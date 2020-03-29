@@ -21,9 +21,13 @@ Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
 
 Frank, Thomas (2016). *Listen, Liberal*.
 
+Gibson, William (1986). *Burning Chrome*.
+
 Gibson, William (1984). *Neuromancer*.
 
-Gibson, William (1986). *Burning Chrome*.
+Gibson, William (1986). *Count Zero*
+
+Gibson, William (1988). *Mona Lisa Overdrive*
 
 Gibson, William (2014). *The Peripheral*.
 
