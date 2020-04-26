@@ -7,6 +7,6 @@ Install and run locally
 =======================
 
 ```
-bundle install --path vendor/bundle
+bundle install
 bundle exec jekyll serve --incremental &
 ```
