@@ -102,3 +102,14 @@ sudo apt-get dist-upgrade
 
 sudo apt autoremove
 ```
+
+CentOS
+------
+
+```
+yum provides java
+
+yum provides python?
+
+yum provides */javac
+```
