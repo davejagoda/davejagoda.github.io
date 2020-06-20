@@ -39,6 +39,8 @@ Lyons, Dan (2016). *Disrupted*.
 
 Murray, Douglas (2017). *The Strange Death of Europe*.
 
+Murray, Douglas (2019). *The Madness of Crowds*.
+
 Orwell, George (1937). *The Road to Wigan Pier*.
 
 Orwell, George (1949). *Nineteen Eighty-Four*.
