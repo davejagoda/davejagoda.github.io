@@ -13,6 +13,8 @@ ssh-keygen -y -f ~/.ssh/id_rsa
 
 ssh-keygen -p -f ~/.ssh/id_rsa
 
+ssh-keygen -l -E md5 -f ~/.ssh/id_rsa.pub
+
 ssh-add
 ```
 
