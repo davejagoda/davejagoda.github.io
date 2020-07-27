@@ -53,6 +53,8 @@ git push origin --delete feature/frobnicate-dj
 
 git rebase -i HEAD~1
 
+git rebase -i --root
+
 git commit --amend
 
 git rebase --continue
