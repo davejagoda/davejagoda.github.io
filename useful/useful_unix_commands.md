@@ -115,3 +115,14 @@ yum provides python?
 
 yum provides */javac
 ```
+
+SELinux
+-------
+
+```
+getenforce
+
+ls -Z
+
+ps -Z
+```
