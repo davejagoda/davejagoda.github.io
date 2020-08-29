@@ -83,6 +83,8 @@ diskutil info disk0s1
 
 diskutil info disk0s2
 
+ls -ale
+
 mdls photo.jpg
 
 plutil -convert xml1 -o - file.plist
