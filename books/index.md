@@ -35,6 +35,8 @@ Grove, Andrew S. (2001). *Swimming Across*.
 
 Leeson, Nicholas William (1996). *Rogue Trader: How I Brought Down Barings Bank and Shook the Financial World*.
 
+Liu, Wendy (2020). *Abolish Silicon Valley: How to Liberate Technology From Capitalism*.
+
 Lyons, Dan (2016). *Disrupted*.
 
 Murray, Douglas (2017). *The Strange Death of Europe*.
