@@ -15,6 +15,8 @@ git
 
 [A simple Git deployment strategy for static sites](http://nicolasgallagher.com/simple-git-deployment-strategy-for-static-sites/)
 
+[Using Git to manage a web site](https://toroid.org/git-website-howto)
+
 heroku
 ------
 [Creating and Managing Heroku Postgres Follower Databases](https://devcenter.heroku.com/articles/heroku-postgres-follower-databases)
