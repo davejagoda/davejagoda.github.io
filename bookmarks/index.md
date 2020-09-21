@@ -10,6 +10,11 @@ bicycles
 
 [Cone Adjustment](http://sheldonbrown.com/cone-adjustment.html)
 
+git
+---
+
+[A simple Git deployment strategy for static sites](http://nicolasgallagher.com/simple-git-deployment-strategy-for-static-sites/)
+
 heroku
 ------
 [Creating and Managing Heroku Postgres Follower Databases](https://devcenter.heroku.com/articles/heroku-postgres-follower-databases)
