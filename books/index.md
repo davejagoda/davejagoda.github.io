@@ -17,6 +17,8 @@ Chang, Ha-Joon (2011). *23 Things They Don't Tell You About Capitalism*.
 
 Clavell, James (1962). *King Rat*.
 
+Coates, Ta-Nehisi (2015). *Between the World and Me*.
+
 Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
 
 Frank, Thomas (2016). *Listen, Liberal*.
