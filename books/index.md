@@ -31,6 +31,8 @@ Gibson, William (1986). *Count Zero*
 
 Gibson, William (1988). *Mona Lisa Overdrive*
 
+Gibson, William (1990). *Skinner's Room*
+
 Gibson, William (2014). *The Peripheral*.
 
 Grove, Andrew S. (2001). *Swimming Across*.
