@@ -32,6 +32,8 @@ layout: default
 
 [laws](laws)
 
+[movies](movies)
+
 [nual](nual)
 
 [numbers](numbers)
