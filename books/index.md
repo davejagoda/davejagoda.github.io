@@ -19,6 +19,8 @@ Clavell, James (1962). *King Rat*.
 
 Coates, Ta-Nehisi (2015). *Between the World and Me*.
 
+DiAngelo, Robin J. (2018). *White Fragility*.
+
 Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
 
 Frank, Thomas (2016). *Listen, Liberal*.
