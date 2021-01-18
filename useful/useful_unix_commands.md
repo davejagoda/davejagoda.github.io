@@ -18,6 +18,13 @@ ssh-keygen -l -E md5 -f ~/.ssh/id_rsa.pub
 ssh-add
 ```
 
+perl
+----
+
+```
+perl -p -i -e 's/this/that/g' *.txt
+```
+
 python
 ------
 
