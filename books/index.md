@@ -57,6 +57,8 @@ Parkinson, Cyril Northcote (1957). *Parkinson's Law, and Other Studies in Admini
 
 Perkins, John (2004). *Confessions of an Economic Hit Man*.
 
+Ruiz, Miguel (1997). *The Four Agreements*.
+
 Simmons, Dan (2011). *Flashback*.
 
 Sowell, Thomas (2000). *A Personal Odyssey*.
