@@ -63,4 +63,6 @@ Simmons, Dan (2011). *Flashback*.
 
 Sowell, Thomas (2000). *A Personal Odyssey*.
 
+Steig, William (1990). *Shrek!*
+
 Stein, Samuel (2019). *Capital City: Gentrification and the Real Estate State*.
