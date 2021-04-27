@@ -81,6 +81,12 @@ its logical conclusion.
 \- Nassim Nicholas Taleb
 
 
+> When you sell options, treat the possible as likely. When you buy
+them, treat the likely as merely possible.
+
+\- Nassim Nicholas Taleb
+
+
 > Program testing can be used to show the presence of bugs, but never
 to show their absence!
 
