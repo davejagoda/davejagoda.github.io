@@ -23,6 +23,8 @@ DiAngelo, Robin J. (2018). *White Fragility*.
 
 Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
 
+Duke, Annie (2018). *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts*.
+
 Frank, Thomas (2016). *Listen, Liberal*.
 
 Gibson, William (1986). *Burning Chrome*.
