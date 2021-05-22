@@ -31,17 +31,17 @@ Gibson, William (1986). *Burning Chrome*.
 
 Gibson, William (1984). *Neuromancer*.
 
-Gibson, William (1986). *Count Zero*
+Gibson, William (1986). *Count Zero*.
 
-Gibson, William (1988). *Mona Lisa Overdrive*
+Gibson, William (1988). *Mona Lisa Overdrive*.
 
-Gibson, William (1990). *Skinner's Room*
+Gibson, William (1990). *Skinner's Room*.
 
 Gibson, William (2014). *The Peripheral*.
 
 Grove, Andrew S. (2001). *Swimming Across*.
 
-Johnson, Ed (2006). *Hacknot: Essays on Software Development*
+Johnson, Ed (2006). *Hacknot: Essays on Software Development*.
 
 Leeson, Nicholas William (1996). *Rogue Trader: How I Brought Down Barings Bank and Shook the Financial World*.
 
@@ -61,7 +61,7 @@ Parkinson, Cyril Northcote (1957). *Parkinson's Law, and Other Studies in Admini
 
 Perkins, John (2004). *Confessions of an Economic Hit Man*.
 
-Reilly, Wilfred (2020). *Taboo: 10 Facts You Can't Talk About*
+Reilly, Wilfred (2020). *Taboo: 10 Facts You Can't Talk About*.
 
 Ruiz, Miguel (1997). *The Four Agreements*.
 
@@ -69,6 +69,6 @@ Simmons, Dan (2011). *Flashback*.
 
 Sowell, Thomas (2000). *A Personal Odyssey*.
 
-Steig, William (1990). *Shrek!*
+Steig, William (1990). *Shrek!*.
 
 Stein, Samuel (2019). *Capital City: Gentrification and the Real Estate State*.
