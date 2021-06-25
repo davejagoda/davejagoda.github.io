@@ -27,6 +27,10 @@ Duke, Annie (2018). *Thinking in Bets: Making Smarter Decisions When You Don't H
 
 Frank, Thomas (2016). *Listen, Liberal*.
 
+Gerard, David (2017). *Attack of the 50 Foot Blockchain*.
+
+Gerard, David (2020). *Libra Shrugged*.
+
 Gibson, William (1986). *Burning Chrome*.
 
 Gibson, William (1984). *Neuromancer*.
