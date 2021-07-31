@@ -27,6 +27,8 @@ Duke, Annie (2018). *Thinking in Bets: Making Smarter Decisions When You Don't H
 
 Frank, Thomas (2016). *Listen, Liberal*.
 
+Galef, Julia (2021). *The Scout Mindset*.
+
 Gerard, David (2017). *Attack of the 50 Foot Blockchain*.
 
 Gerard, David (2020). *Libra Shrugged*.
