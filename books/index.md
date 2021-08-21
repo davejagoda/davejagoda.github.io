@@ -51,6 +51,8 @@ Johnson, Ed (2006). *Hacknot: Essays on Software Development*.
 
 Leeson, Nicholas William (1996). *Rogue Trader: How I Brought Down Barings Bank and Shook the Financial World*.
 
+Lencioni, Patrick (2004). *Death by Meeting*.
+
 Liu, Wendy (2020). *Abolish Silicon Valley: How to Liberate Technology From Capitalism*.
 
 Lyons, Dan (2016). *Disrupted*.
