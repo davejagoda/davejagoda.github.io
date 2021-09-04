@@ -47,6 +47,10 @@ Gibson, William (2014). *The Peripheral*.
 
 Grove, Andrew S. (2001). *Swimming Across*.
 
+Horowitz, Ben. (2014). *The Hard Thing About Hard Things*.
+
+Horowitz, Ben. (2019). *What You Do Is Who You Are*.
+
 Johnson, Ed (2006). *Hacknot: Essays on Software Development*.
 
 Leeson, Nicholas William (1996). *Rogue Trader: How I Brought Down Barings Bank and Shook the Financial World*.
