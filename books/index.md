@@ -75,6 +75,20 @@ Perkins, John (2004). *Confessions of an Economic Hit Man*.
 
 Reilly, Wilfred (2020). *Taboo: 10 Facts You Can't Talk About*.
 
+Rowling, J. K. (1997). *Harry Potter And The Sorcerer's Stone*.
+
+Rowling, J. K. (1998). *Chamber of Secrets*.
+
+Rowling, J. K. (1999). *Prisoner of Azkaban*.
+
+Rowling, J. K. (2000). *Goblet of Fire*.
+
+Rowling, J. K. (2003). *Order of the Phoenix*.
+
+Rowling, J. K. (2005). *Half-Blood Prince*.
+
+Rowling, J. K. (2007). *Deathly Hallows*.
+
 Ruiz, Miguel (1997). *The Four Agreements*.
 
 Simmons, Dan (2011). *Flashback*.
