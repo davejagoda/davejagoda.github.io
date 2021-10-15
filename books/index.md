@@ -59,6 +59,10 @@ Lencioni, Patrick (2004). *Death by Meeting*.
 
 Liu, Wendy (2020). *Abolish Silicon Valley: How to Liberate Technology From Capitalism*.
 
+Lovecraft, H.P. (1917). *Dagon*.
+
+Lovecraft, H.P. (1928). *The Call of Cthulhu*.
+
 Lyons, Dan (2016). *Disrupted*.
 
 Murray, Douglas (2017). *The Strange Death of Europe*.
