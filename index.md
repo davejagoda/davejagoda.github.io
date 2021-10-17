@@ -28,6 +28,8 @@ layout: default
 
 [gnu](gnu)
 
+[emacs](emacs)
+
 [heroku](heroku)
 
 [jokes](jokes.html)
