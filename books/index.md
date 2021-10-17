@@ -63,6 +63,8 @@ Lovecraft, H.P. (1917). *Dagon*.
 
 Lovecraft, H.P. (1928). *The Call of Cthulhu*.
 
+Lovecraft, H.P. (1928). *Cool Air*.
+
 Lyons, Dan (2016). *Disrupted*.
 
 Murray, Douglas (2017). *The Strange Death of Europe*.
