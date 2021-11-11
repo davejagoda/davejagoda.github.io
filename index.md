@@ -34,6 +34,8 @@ layout: default
 
 [jokes](jokes.html)
 
+[latex](latex)
+
 [laws](laws)
 
 [movies](movies)
