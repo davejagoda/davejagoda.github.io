@@ -67,6 +67,8 @@ Lovecraft, H.P. (1928). *Cool Air*.
 
 Lyons, Dan (2016). *Disrupted*.
 
+MacGillis, Alec (2021). *Fulfillment: Winning and Losing in One-Click America*.
+
 Murray, Douglas (2017). *The Strange Death of Europe*.
 
 Murray, Douglas (2019). *The Madness of Crowds*.
