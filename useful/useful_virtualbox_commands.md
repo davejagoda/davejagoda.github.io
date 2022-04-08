@@ -8,6 +8,8 @@ from command line
 
 `VBoxManage list vms`
 
+`VBoxManage list runningvms`
+
 `VBoxManage list ostypes`
 
 `VBoxManage showvminfo <vmname>`
