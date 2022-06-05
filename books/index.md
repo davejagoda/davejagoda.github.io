@@ -81,6 +81,8 @@ Parkinson, Cyril Northcote (1957). *Parkinson's Law, and Other Studies in Admini
 
 Perkins, John (2004). *Confessions of an Economic Hit Man*.
 
+Reed, Touré F. (2020). *Toward Freedom: The Case Against Race Reductionism*.
+
 Reilly, Wilfred (2020). *Taboo: 10 Facts You Can't Talk About*.
 
 Rowling, J. K. (1997). *Harry Potter And The Sorcerer's Stone*.
