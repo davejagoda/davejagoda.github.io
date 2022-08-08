@@ -9,6 +9,8 @@ Berlin, Isaiah (1953). *The Hedgehog and the Fox*.
 
 Boulle, Pierre (1954). *The Bridge over the River Kwai*.
 
+Browning, Christopher R. (1992). *Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland*.
+
 Burns, Sarah (2011). *The Central Park Five: A Chronicle of a City Wilding*.
 
 Card, Orson Scott (1977). *Ender's Game*.
