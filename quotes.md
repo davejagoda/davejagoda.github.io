@@ -86,6 +86,10 @@ layout: default
 
 \- Nassim Nicholas Taleb
 
+> For the robust, an error is information; for the fragile, an error
+  is an error.
+
+\- Nassim Nicholas Taleb
 
 > Program testing can be used to show the presence of bugs, but never
   to show their absence!
