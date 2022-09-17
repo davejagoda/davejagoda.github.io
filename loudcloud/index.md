@@ -3,6 +3,8 @@ title: loudcloud
 layout: default
 ---
 
+# timeline
+
 1999-10: Subleased from Ultra Clean Technology, 150 Independence
 Drive, Menlo Park (since torn down)
 
@@ -19,3 +21,7 @@ everyone else stays in the Taj, there's a cafeteria, I remember a
 Mardi Gras party)
 
 2001-06?: Consolidated back to the Taj
+
+# bibliography
+
+[Which Way Do You Run?](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/)
