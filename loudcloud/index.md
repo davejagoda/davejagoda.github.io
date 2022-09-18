@@ -22,6 +22,13 @@ Mardi Gras party)
 
 2001-06?: Consolidated back to the Taj
 
+# employees
+
+9. Jeanne Romano
+11. Dave Jagoda
+
 # bibliography
 
-[Which Way Do You Run?](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/)
+2000-08-01: [https://www.wired.com/2000/08/loudcloud/](Crank It Up)
+
+2019-10-17: [Which Way Do You Run?](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/)
