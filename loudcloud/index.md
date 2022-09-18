@@ -29,6 +29,6 @@ Mardi Gras party)
 
 # bibliography
 
-2000-08-01: [https://www.wired.com/2000/08/loudcloud/](Crank It Up)
+2000-08-01: [Crank It Up](https://www.wired.com/2000/08/loudcloud/)
 
 2019-10-17: [Which Way Do You Run?](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/)
