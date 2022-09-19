@@ -22,11 +22,6 @@ Mardi Gras party)
 
 2001-06?: Consolidated back to the Taj
 
-# employees
-
-9. Jeanne Romano
-11. Dave Jagoda
-
 # bibliography
 
 2000-08-01: [Crank It Up](https://www.wired.com/2000/08/loudcloud/)
