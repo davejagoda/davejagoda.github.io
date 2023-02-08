@@ -73,6 +73,8 @@ Lyons, Dan (2016). *Disrupted*.
 
 MacGillis, Alec (2021). *Fulfillment: Winning and Losing in One-Click America*.
 
+Marx, Paris (2022). *Road to Nowhere: What Silicon Valley Gets Wrong about the Future of Transportation*.
+
 Murray, Douglas (2017). *The Strange Death of Europe*.
 
 Murray, Douglas (2019). *The Madness of Crowds*.
