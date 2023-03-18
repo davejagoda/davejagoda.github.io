@@ -31,6 +31,8 @@ Duke, Annie (2018). *Thinking in Bets: Making Smarter Decisions When You Don't H
 
 Frank, Thomas (2016). *Listen, Liberal*.
 
+Fergusson, Adam (2010). *When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany.*
+
 Galef, Julia (2021). *The Scout Mindset*.
 
 Gerard, David (2017). *Attack of the 50 Foot Blockchain*.
