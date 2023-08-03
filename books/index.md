@@ -29,7 +29,11 @@ Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
 
 Duke, Annie (2018). *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts*.
 
+Fournier, Camille (2017). *The Manager's Path*.
+
 Frank, Thomas (2016). *Listen, Liberal*.
+
+Fergusson, Adam (2010). *When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany.*
 
 Galef, Julia (2021). *The Scout Mindset*.
 
@@ -72,6 +76,8 @@ Lovecraft, H.P. (1928). *Cool Air*.
 Lyons, Dan (2016). *Disrupted*.
 
 MacGillis, Alec (2021). *Fulfillment: Winning and Losing in One-Click America*.
+
+Marx, Paris (2022). *Road to Nowhere: What Silicon Valley Gets Wrong about the Future of Transportation*.
 
 Murray, Douglas (2017). *The Strange Death of Europe*.
 
