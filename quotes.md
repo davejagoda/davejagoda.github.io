@@ -86,10 +86,12 @@ layout: default
 
 \- Nassim Nicholas Taleb
 
+
 > For the robust, an error is information; for the fragile, an error
   is an error.
 
 \- Nassim Nicholas Taleb
+
 
 > Program testing can be used to show the presence of bugs, but never
   to show their absence!
@@ -269,3 +271,9 @@ layout: default
   and exposing the country to greater danger.
 
 \- Hermann Göring
+
+
+> I have found out what economics is; it is the science of confusing
+  stocks with flows.
+
+\- Michał Kalecki
