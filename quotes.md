@@ -277,3 +277,11 @@ layout: default
   stocks with flows.
 
 \- Michał Kalecki
+
+
+> I have a well-deserved reputation for being something of a gadget
+  freak, and am rarely happier than when spending an entire day
+  programming my computer to perform automatically a task that would
+  otherwise take me a good ten seconds to do by hand.
+
+\- Douglas Adams
