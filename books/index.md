@@ -23,6 +23,8 @@ Clavell, James (1962). *King Rat*.
 
 Coates, Ta-Nehisi (2015). *Between the World and Me*.
 
+Collier, Peter and Horowitz, David (1984). *The Kennedys: An American Drama*.
+
 DiAngelo, Robin J. (2018). *White Fragility*.
 
 Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
