@@ -285,3 +285,11 @@ layout: default
   otherwise take me a good ten seconds to do by hand.
 
 \- Douglas Adams
+
+
+> Study after study shows that the very best designers produce
+  structures that are faster, smaller, simpler, clearer, and produced
+  with less effort. The differences between the great and the average
+  approach an order of magnitude.
+
+\- Fred Brooks
