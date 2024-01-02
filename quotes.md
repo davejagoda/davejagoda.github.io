@@ -293,3 +293,10 @@ layout: default
   approach an order of magnitude.
 
 \- Fred Brooks
+
+
+> I do not have a five-year plan. I do not have a moonshot. I'm
+  looking at the ground, and I want to fix the pothole that's right in
+  front of me before I go in.
+
+\- Linus Torvalds
