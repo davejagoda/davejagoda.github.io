@@ -12,6 +12,8 @@ from command line
 
 `docker images`
 
+`docker info`
+
 resources
 ---------
 
