@@ -81,6 +81,8 @@ MacGillis, Alec (2021). *Fulfillment: Winning and Losing in One-Click America*.
 
 Marx, Paris (2022). *Road to Nowhere: What Silicon Valley Gets Wrong about the Future of Transportation*.
 
+Miller, Chris (2022). *Chip War the Fight for the World's Most Critical Technology*.
+
 Murray, Douglas (2017). *The Strange Death of Europe*.
 
 Murray, Douglas (2019). *The Madness of Crowds*.
@@ -97,7 +99,7 @@ Reed, Touré F. (2020). *Toward Freedom: The Case Against Race Reductionism*.
 
 Reilly, Wilfred (2020). *Taboo: 10 Facts You Can't Talk About*.
 
-Rowling, J. K. (1997). *Harry Potter And The Sorcerer's Stone*.
+Rowling, J. K. (1997). *Harry Potter and The Sorcerer's Stone*.
 
 Rowling, J. K. (1998). *Chamber of Secrets*.
 
