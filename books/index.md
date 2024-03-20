@@ -87,6 +87,8 @@ Murray, Douglas (2017). *The Strange Death of Europe*.
 
 Murray, Douglas (2019). *The Madness of Crowds*.
 
+O'Brien, Robert C. (1971). *Mrs. Frisby and the Rats of NIMH*.
+
 Orwell, George (1937). *The Road to Wigan Pier*.
 
 Orwell, George (1949). *Nineteen Eighty-Four*.
