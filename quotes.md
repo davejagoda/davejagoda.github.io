@@ -295,6 +295,12 @@ layout: default
 \- Fred Brooks
 
 
+> System debugging, like astronomy, has always been done chiefly at
+  night.
+
+\- Fred Brooks
+
+
 > I do not have a five-year plan. I do not have a moonshot. I'm
   looking at the ground, and I want to fix the pothole that's right in
   front of me before I go in.
