@@ -306,3 +306,8 @@ layout: default
   front of me before I go in.
 
 \- Linus Torvalds
+
+
+> One of my most productive days was throwing away 1000 lines of code.
+
+\- Ken Thompson
