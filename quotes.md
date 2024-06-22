@@ -311,3 +311,9 @@ layout: default
 > One of my most productive days was throwing away 1000 lines of code.
 
 \- Ken Thompson
+
+
+> The goal of DevOps is to make software delivery vastly more
+  efficient.
+
+\- Yevgeniy Brikman
