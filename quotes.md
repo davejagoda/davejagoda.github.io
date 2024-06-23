@@ -317,3 +317,12 @@ layout: default
   efficient.
 
 \- Yevgeniy Brikman
+
+
+> The parties to these kinds of contracts are largely sophisticated
+  financial institutions that would appear to be eminently capable of
+  protecting themselves from fraud and counterparty insolvencies and
+  most of which are already subject to basic safety and soundness
+  regulation under existing banking and securities laws.
+
+\- Larry Summers
