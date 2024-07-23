@@ -67,6 +67,20 @@ Leeson, Nicholas William (1996). *Rogue Trader: How I Brought Down Barings Bank 
 
 Lencioni, Patrick (2004). *Death by Meeting*.
 
+Lewis, C. S. (1950). *The Lion, the Witch and the Wardrobe*.
+
+Lewis, C. S. (1951). *Prince Caspian*.
+
+Lewis, C. S. (1952). *The Voyage of the Dawn Treader*.
+
+Lewis, C. S. (1953). *The Silver Chair*.
+
+Lewis, C. S. (1954). *The Horse and His Boy*.
+
+Lewis, C. S. (1955). *The Magician's Nephew*.
+
+Lewis, C. S. (1956). *The Last Battle*.
+
 Liu, Wendy (2020). *Abolish Silicon Valley: How to Liberate Technology From Capitalism*.
 
 Lovecraft, H.P. (1917). *Dagon*.
