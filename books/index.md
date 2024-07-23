@@ -87,7 +87,11 @@ Murray, Douglas (2017). *The Strange Death of Europe*.
 
 Murray, Douglas (2019). *The Madness of Crowds*.
 
+O'Brien, Robert C. (1968). *The Silver Crown*.
+
 O'Brien, Robert C. (1971). *Mrs. Frisby and the Rats of NIMH*.
+
+O'Brien, Robert C. (1974). *Z for Zachariah*.
 
 Orwell, George (1937). *The Road to Wigan Pier*.
 
