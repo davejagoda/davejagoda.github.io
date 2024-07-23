@@ -326,3 +326,10 @@ layout: default
   regulation under existing banking and securities laws.
 
 \- Larry Summers
+
+
+> It is hard for us, without being flippant, to even see a scenario
+  within any kind of realm of reason that would see us losing $1 in
+  any of those transactions.
+
+\- Joseph Cassano
