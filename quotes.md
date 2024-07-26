@@ -333,3 +333,9 @@ layout: default
   any of those transactions.
 
 \- Joseph Cassano
+
+
+> An expert is a fellow who is afraid to learn anything new because
+  then he wouldn't be an expert anymore.
+
+\- Harry S Truman
