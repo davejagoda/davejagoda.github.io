@@ -19,6 +19,8 @@ Card, Orson Scott (1977). *Ender's Game*.
 
 Chang, Ha-Joon (2011). *23 Things They Don't Tell You About Capitalism*.
 
+Chang, Ha-Joon (2014). *Economics: the User's Guide*.
+
 Clavell, James (1962). *King Rat*.
 
 Coates, Ta-Nehisi (2015). *Between the World and Me*.
