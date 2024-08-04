@@ -351,3 +351,18 @@ layout: default
   then he wouldn't be an expert anymore.
 
 \- Harry S Truman
+
+
+> The free market doesn't exist. Every market has some rules and
+  boundaries that restrict freedom of choice. A market looks free only
+  because we so unconditionally accept its underlying restrictions
+  that we fail to see them. How 'free' a market is cannot be
+  objectively defined. It is a political definition. The usual claim
+  by free-market economists that they are trying to defend the market
+  from politically motivated interference by the government is
+  false. Government is always involved and those free-marketeers are
+  as politically motivated as anyone. Overcoming the myth that there
+  is such a thing as an objectively defined 'free market' is the first
+  step towards understanding capitalism.
+
+\- 장하준
