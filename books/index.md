@@ -27,6 +27,10 @@ Coates, Ta-Nehisi (2015). *Between the World and Me*.
 
 Collier, Peter and Horowitz, David (1984). *The Kennedys: An American Drama*.
 
+Conly, Jane Leslie (1986). *Racso and the Rats of NIMH*.
+
+Conly, Jane Leslie (1990). *RT, Margaret, and the Rats of NIMH*.
+
 DiAngelo, Robin J. (2018). *White Fragility*.
 
 Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
