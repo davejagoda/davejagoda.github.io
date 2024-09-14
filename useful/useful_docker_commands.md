@@ -14,6 +14,12 @@ from command line
 
 `docker info`
 
+`docker system prune`
+
+`docker build .`
+
+`docker compose up`
+
 resources
 ---------
 
