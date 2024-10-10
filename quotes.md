@@ -366,3 +366,8 @@ layout: default
   step towards understanding capitalism.
 
 \- 장하준
+
+
+> It's a pity that both of them can't lose.
+
+\- Henry Kissinger
