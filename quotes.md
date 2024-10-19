@@ -248,6 +248,18 @@ layout: default
 \- Donald Rumsfeld
 
 
+> Reports that say that something hasn't happened are always
+  interesting to me, because as we know, there are known knowns; there
+  are things we know we know. We also know there are known unknowns;
+  that is to say we know there are some things we do not know. But
+  there are also unknown unknowns -- the ones we don't know we don't
+  know. And if one looks throughout the history of our country and
+  other free countries, it is the latter category that tend to be the
+  difficult ones.
+
+\- Donald Rumsfeld
+
+
 > The recovery in profitability has been amazing following the
   reorganisation, leaving Barings to conclude that it was not actually
   terribly difficult to make money in the securities business.
@@ -285,3 +297,77 @@ layout: default
   otherwise take me a good ten seconds to do by hand.
 
 \- Douglas Adams
+
+
+> Study after study shows that the very best designers produce
+  structures that are faster, smaller, simpler, clearer, and produced
+  with less effort. The differences between the great and the average
+  approach an order of magnitude.
+
+\- Fred Brooks
+
+
+> System debugging, like astronomy, has always been done chiefly at
+  night.
+
+\- Fred Brooks
+
+
+> I do not have a five-year plan. I do not have a moonshot. I'm
+  looking at the ground, and I want to fix the pothole that's right in
+  front of me before I go in.
+
+\- Linus Torvalds
+
+
+> One of my most productive days was throwing away 1000 lines of code.
+
+\- Ken Thompson
+
+
+> The goal of DevOps is to make software delivery vastly more
+  efficient.
+
+\- Yevgeniy Brikman
+
+
+> The parties to these kinds of contracts are largely sophisticated
+  financial institutions that would appear to be eminently capable of
+  protecting themselves from fraud and counterparty insolvencies and
+  most of which are already subject to basic safety and soundness
+  regulation under existing banking and securities laws.
+
+\- Larry Summers
+
+
+> It is hard for us, without being flippant, to even see a scenario
+  within any kind of realm of reason that would see us losing $1 in
+  any of those transactions.
+
+\- Joseph Cassano
+
+
+> An expert is a fellow who is afraid to learn anything new because
+  then he wouldn't be an expert anymore.
+
+\- Harry S Truman
+
+
+> The free market doesn't exist. Every market has some rules and
+  boundaries that restrict freedom of choice. A market looks free only
+  because we so unconditionally accept its underlying restrictions
+  that we fail to see them. How 'free' a market is cannot be
+  objectively defined. It is a political definition. The usual claim
+  by free-market economists that they are trying to defend the market
+  from politically motivated interference by the government is
+  false. Government is always involved and those free-marketeers are
+  as politically motivated as anyone. Overcoming the myth that there
+  is such a thing as an objectively defined 'free market' is the first
+  step towards understanding capitalism.
+
+\- 장하준
+
+
+> It's a pity that both of them can't lose.
+
+\- Henry Kissinger

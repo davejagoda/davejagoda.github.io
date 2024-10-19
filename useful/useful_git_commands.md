@@ -33,7 +33,7 @@ git update-index --assume-unchanged FILE
 
 git fetch
 
-git fetch --prune
+git fetch --all --prune
 
 git rebase
 
@@ -60,6 +60,12 @@ git commit --amend
 git rebase --continue
 
 git remote add upstream https://github/scrognate/frobnicate.git
+
+git remote show origin
+
+git symbolic-ref refs/remotes/origin/HEAD --short
+
+git remote set-head origin --auto
 ```
 
 Github

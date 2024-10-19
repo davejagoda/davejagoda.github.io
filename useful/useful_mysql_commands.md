@@ -22,6 +22,8 @@ from command line
 
 `mysql -u <username> -p -e "DROP USER 'user'@'localhost';"`
 
+`mysqladmin variables | grep bind_address`
+
 from mysql
 ----------
 

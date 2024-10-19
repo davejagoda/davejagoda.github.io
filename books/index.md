@@ -19,9 +19,17 @@ Card, Orson Scott (1977). *Ender's Game*.
 
 Chang, Ha-Joon (2011). *23 Things They Don't Tell You About Capitalism*.
 
+Chang, Ha-Joon (2014). *Economics: the User's Guide*.
+
 Clavell, James (1962). *King Rat*.
 
 Coates, Ta-Nehisi (2015). *Between the World and Me*.
+
+Collier, Peter and Horowitz, David (1984). *The Kennedys: An American Drama*.
+
+Conly, Jane Leslie (1986). *Racso and the Rats of NIMH*.
+
+Conly, Jane Leslie (1990). *RT, Margaret, and the Rats of NIMH*.
 
 DiAngelo, Robin J. (2018). *White Fragility*.
 
@@ -61,9 +69,25 @@ Horowitz, Ben. (2019). *What You Do Is Who You Are*.
 
 Johnson, Ed (2006). *Hacknot: Essays on Software Development*.
 
+Konigsburg, E. L. (1967). *From the Mixed-Up Files of Mrs. Basil E. Frankweiler*.
+
 Leeson, Nicholas William (1996). *Rogue Trader: How I Brought Down Barings Bank and Shook the Financial World*.
 
 Lencioni, Patrick (2004). *Death by Meeting*.
+
+Lewis, C. S. (1950). *The Lion, the Witch and the Wardrobe*.
+
+Lewis, C. S. (1951). *Prince Caspian*.
+
+Lewis, C. S. (1952). *The Voyage of the Dawn Treader*.
+
+Lewis, C. S. (1953). *The Silver Chair*.
+
+Lewis, C. S. (1954). *The Horse and His Boy*.
+
+Lewis, C. S. (1955). *The Magician's Nephew*.
+
+Lewis, C. S. (1956). *The Last Battle*.
 
 Liu, Wendy (2020). *Abolish Silicon Valley: How to Liberate Technology From Capitalism*.
 
@@ -79,9 +103,19 @@ MacGillis, Alec (2021). *Fulfillment: Winning and Losing in One-Click America*.
 
 Marx, Paris (2022). *Road to Nowhere: What Silicon Valley Gets Wrong about the Future of Transportation*.
 
+Miller, Chris (2022). *Chip War the Fight for the World's Most Critical Technology*.
+
 Murray, Douglas (2017). *The Strange Death of Europe*.
 
 Murray, Douglas (2019). *The Madness of Crowds*.
+
+Narayanan, Arvind (2024). *AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference*.
+
+O'Brien, Robert C. (1968). *The Silver Crown*.
+
+O'Brien, Robert C. (1971). *Mrs. Frisby and the Rats of NIMH*.
+
+O'Brien, Robert C. (1974). *Z for Zachariah*.
 
 Orwell, George (1937). *The Road to Wigan Pier*.
 
@@ -95,7 +129,7 @@ Reed, Touré F. (2020). *Toward Freedom: The Case Against Race Reductionism*.
 
 Reilly, Wilfred (2020). *Taboo: 10 Facts You Can't Talk About*.
 
-Rowling, J. K. (1997). *Harry Potter And The Sorcerer's Stone*.
+Rowling, J. K. (1997). *Harry Potter and The Sorcerer's Stone*.
 
 Rowling, J. K. (1998). *Chamber of Secrets*.
 
