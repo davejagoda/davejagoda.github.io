@@ -109,6 +109,8 @@ Murray, Douglas (2017). *The Strange Death of Europe*.
 
 Murray, Douglas (2019). *The Madness of Crowds*.
 
+Narayanan, Arvind (2024). *AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference*.
+
 O'Brien, Robert C. (1968). *The Silver Crown*.
 
 O'Brien, Robert C. (1971). *Mrs. Frisby and the Rats of NIMH*.
