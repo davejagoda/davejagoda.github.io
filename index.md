@@ -33,7 +33,7 @@ layout: default
 
 [heroku](heroku)
 
-[jokes](jokes.html)
+[jokes](jokes)
 
 [latex](latex)
 
@@ -59,7 +59,7 @@ layout: default
 
 [proggy](proggy)
 
-[quotes](quotes.html)
+[quotes](quotes)
 
 [status](status)
 
