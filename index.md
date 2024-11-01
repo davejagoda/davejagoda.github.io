@@ -2,9 +2,8 @@
 title: dj
 layout: default
 ---
-[OSX](OSX)
 
-[Old index page](old_index.html)
+[OSX](OSX)
 
 [apache](apache)
 
@@ -22,6 +21,8 @@ layout: default
 
 [common gateway interface](cgi)
 
+[data](data)
+
 [functional specifications](funcspec)
 
 [gitscussion](gitscussion)
@@ -38,6 +39,8 @@ layout: default
 
 [laws](laws)
 
+[linux](linux)
+
 [loudcloud](loudcloud)
 
 [movies](movies)
@@ -45,6 +48,8 @@ layout: default
 [nual](nual)
 
 [numbers](numbers)
+
+[old](old)
 
 [opensource](opensource)
 
@@ -58,4 +63,8 @@ layout: default
 
 [status](status)
 
+[twitter](twitter)
+
 [useful](useful)
+
+[wordpress](wordpress)
