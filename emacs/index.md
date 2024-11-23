@@ -1,6 +1,6 @@
 ---
 title: emacs
-layout: default
+layout: appleII
 ---
 emacs modes
 ===========

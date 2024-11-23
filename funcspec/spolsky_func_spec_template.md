@@ -1,6 +1,6 @@
 ---
 title: func spec template
-layout: default
+layout: appleII
 ---
 Foo Functional Specification
 ============================

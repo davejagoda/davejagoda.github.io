@@ -1,6 +1,6 @@
 ---
 title: Ubuntu 14.04 Build Recipe
-layout: default
+layout: appleII
 ---
 
 1. Back everything up to another computer

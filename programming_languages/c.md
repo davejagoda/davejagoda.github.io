@@ -1,6 +1,6 @@
 ---
 title: C
-layout: default
+layout: appleII
 ---
 
 C

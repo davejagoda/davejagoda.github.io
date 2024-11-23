@@ -1,6 +1,6 @@
 ---
 title: Ubuntu
-layout: default
+layout: appleII
 ---
 | number      | name              | php    | python  |
 |-------------|-------------------|--------|---------|

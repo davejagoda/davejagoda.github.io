@@ -1,6 +1,6 @@
 ---
 title: Best JavaScript Resources
-layout: default
+layout: appleII
 ---
 [callback me maybe - CS 42](http://callbackjs.me)
 

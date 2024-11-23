@@ -1,6 +1,6 @@
 ---
 title: Fortran
-layout: default
+layout: appleII
 ---
 
 Fortran

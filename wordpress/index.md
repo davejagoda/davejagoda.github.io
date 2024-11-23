@@ -1,6 +1,6 @@
 ---
 title: WordPress Bookmarks
-layout: default
+layout: appleII
 ---
 
 [Security](https://wordpress.org/about/security/ "Security &#124; WordPress.org")

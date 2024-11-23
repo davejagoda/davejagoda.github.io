@@ -1,6 +1,6 @@
 ---
 title: best
-layout: default
+layout: appleII
 ---
 [javascript](best_javascript_resources.html)
 

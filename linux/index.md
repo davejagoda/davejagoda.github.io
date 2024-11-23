@@ -1,6 +1,6 @@
 ---
 title: linux
-layout: default
+layout: appleII
 ---
 
 [CentOSBookmarks](CentOSBookmarks)

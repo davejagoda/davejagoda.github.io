@@ -1,6 +1,6 @@
 ---
 title: laws
-layout: default
+layout: appleII
 ---
 [Akins's Laws of Spacecraft Design](http://spacecraft.ssl.umd.edu/akins_laws.html)
 

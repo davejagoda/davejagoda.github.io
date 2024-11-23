@@ -1,6 +1,6 @@
 ---
 title: numbers
-layout: default
+layout: appleII
 ---
 [1 to 20](1_to_20.html)
 

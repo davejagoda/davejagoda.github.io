@@ -1,6 +1,6 @@
 ---
 title: quotes
-layout: default
+layout: appleII
 ---
 
 > Je n'ai fait celle-ci plus longue que parce que je n'ai pas eu le

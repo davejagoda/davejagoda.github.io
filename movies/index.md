@@ -1,6 +1,6 @@
 ---
 title: movies
-layout: default
+layout: appleII
 ---
 movies
 ======

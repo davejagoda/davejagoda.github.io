@@ -1,6 +1,6 @@
 ---
 title: zip codes
-layout: default
+layout: appleII
 ---
 |00501|NY|HOLTSVILLE                 |
 |00544|NY|HOLTSVILLE                 |

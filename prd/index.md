@@ -1,6 +1,6 @@
 ---
 title: prd
-layout: default
+layout: appleII
 ---
 [Heilmeier's catechism](heilmeier_catechism.html)
 

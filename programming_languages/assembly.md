@@ -1,6 +1,6 @@
 ---
 title: assembly language
-layout: default
+layout: appleII
 ---
 
 Assembly language

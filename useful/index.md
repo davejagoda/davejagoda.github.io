@@ -1,6 +1,6 @@
 ---
 title: useful
-layout: default
+layout: appleII
 ---
 
 browser

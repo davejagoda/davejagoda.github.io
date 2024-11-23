@@ -1,6 +1,6 @@
 ---
 title: books
-layout: default
+layout: appleII
 ---
 books
 =====

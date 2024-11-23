@@ -1,6 +1,6 @@
 ---
 title: apache
-layout: default
+layout: appleII
 ---
 apache httpd server
 ===================

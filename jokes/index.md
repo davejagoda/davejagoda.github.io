@@ -1,6 +1,6 @@
 ---
 title: jokes
-layout: default
+layout: appleII
 ---
 
 I know a UDP joke, but you might not get it.

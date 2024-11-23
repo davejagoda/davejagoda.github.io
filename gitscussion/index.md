@@ -1,6 +1,6 @@
 ---
 title: gitscussion
-layout: default
+layout: appleII
 ---
 a discussion of git
 ===================

@@ -1,6 +1,6 @@
 ---
 title: bookmarks
-layout: default
+layout: appleII
 ---
 bookmarks
 =========

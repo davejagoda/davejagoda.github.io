@@ -1,6 +1,6 @@
 ---
 title: dj
-layout: default
+layout: appleII
 ---
 [OSX image sums](OSX_image_sums.html)
 

@@ -1,6 +1,6 @@
 ---
 title: git push web
-layout: default
+layout: appleII
 ---
 
 git push web

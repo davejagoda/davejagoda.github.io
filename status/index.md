@@ -1,6 +1,6 @@
 ---
 title: status
-layout: default
+layout: appleII
 ---
 [AWS](http://status.aws.amazon.com/)
 

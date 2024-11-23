@@ -1,6 +1,6 @@
 ---
 title: Open Source
-layout: default
+layout: appleII
 ---
 
 [bento](https://github.com/chef/bento/pulls/davejagoda)

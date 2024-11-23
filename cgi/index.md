@@ -1,6 +1,6 @@
 ---
 title: cgi
-layout: default
+layout: appleII
 ---
 
 common gateway interface

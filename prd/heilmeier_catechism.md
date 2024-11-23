@@ -1,6 +1,6 @@
 ---
 title: Heilmeier's catechism
-layout: default
+layout: appleII
 ---
 
 * What are you trying to do?

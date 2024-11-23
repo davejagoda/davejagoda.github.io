@@ -1,6 +1,6 @@
 ---
 title: dj
-layout: default
+layout: appleII
 ---
 
 [OSX](OSX)

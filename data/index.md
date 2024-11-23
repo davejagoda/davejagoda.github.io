@@ -1,5 +1,5 @@
 ---
 title: data
-layout: default
+layout: appleII
 ---
 [zip codes](zip_codes.html)
