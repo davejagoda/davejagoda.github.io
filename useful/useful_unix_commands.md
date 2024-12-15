@@ -68,6 +68,8 @@ OS X
 ```
 dot_clean
 
+fs_usage
+
 mdutil -a -i off
 
 mdutil -a -i on
