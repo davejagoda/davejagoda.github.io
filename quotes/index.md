@@ -381,3 +381,8 @@ layout: appleII
   alongside the armies that committed them is shocking and shameful.
 
 \- Anna Reid
+
+
+> A people unused to restraint must be led, they will not be drove.
+
+\- George Washington
