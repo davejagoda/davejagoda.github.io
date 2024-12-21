@@ -19,7 +19,7 @@ Card, Orson Scott (1977). *Ender's Game*.
 
 Chang, Ha-Joon (2011). *23 Things They Don't Tell You About Capitalism*.
 
-Chang, Ha-Joon (2014). *Economics: the User's Guide*.
+Chang, Ha-Joon (2014). *Economics: The User's Guide*.
 
 Clavell, James (1962). *King Rat*.
 
@@ -126,6 +126,8 @@ Parkinson, Cyril Northcote (1957). *Parkinson's Law, and Other Studies in Admini
 Perkins, John (2004). *Confessions of an Economic Hit Man*.
 
 Reed, Touré F. (2020). *Toward Freedom: The Case Against Race Reductionism*.
+
+Reid, Anna (2024). *A Nasty Little War: The Western Intervention Into the Russian Civil War*.
 
 Reilly, Wilfred (2020). *Taboo: 10 Facts You Can't Talk About*.
 

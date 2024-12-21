@@ -371,3 +371,13 @@ layout: appleII
 > It's a pity that both of them can't lose.
 
 \- Henry Kissinger
+
+
+> Hardly present in the debate of the day, or in historians' since,
+  the pogroms answer the question 'Was the Intervention wowrth it?' at
+  a stroke. The answer is No. Even at the distance of a century, with
+  1919's killings long overshadowed by the Holocaust, the fact that
+  Britain knowingly funded, supplied, trained and sent men to fight
+  alongside the armies that committed them is shocking and shameful.
+
+\- Anna Reid
