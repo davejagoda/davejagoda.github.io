@@ -103,6 +103,8 @@ MacGillis, Alec (2021). *Fulfillment: Winning and Losing in One-Click America*.
 
 Marx, Paris (2022). *Road to Nowhere: What Silicon Valley Gets Wrong about the Future of Transportation*.
 
+McCullough, David G. (2005). *1776*.
+
 Miller, Chris (2022). *Chip War the Fight for the World's Most Critical Technology*.
 
 Murray, Douglas (2017). *The Strange Death of Europe*.
