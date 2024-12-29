@@ -386,3 +386,9 @@ layout: appleII
 > A people unused to restraint must be led, they will not be drove.
 
 \- George Washington
+
+
+> make the best of Mankind as they are, since we cannot have them as
+  we wish
+
+\- George Washington
