@@ -11,6 +11,16 @@ from command line
 from sqlite
 -----------
 
-`.quit`
+`.help`
 
-`.schema`
+`.open <sqlite_db_filename>`
+
+`.show`
+
+`.databases`
+
+`.tables`
+
+`.schema <table_name>`
+
+`.quit`
