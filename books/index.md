@@ -149,6 +149,8 @@ Rowling, J. K. (2007). *Deathly Hallows*.
 
 Ruiz, Miguel (1997). *The Four Agreements*.
 
+Shevchenko, Artie (2024). *Code Health Guardian: The Old-New Role of a Human Programmer in the AI Era*.
+
 Simmons, Dan (2011). *Flashback*.
 
 Sowell, Thomas (2000). *A Personal Odyssey*.
