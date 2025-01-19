@@ -25,8 +25,6 @@ layout: appleII
 
 [functional specifications](funcspec)
 
-[gitscussion](gitscussion)
-
 [gnu](gnu)
 
 [emacs](emacs)
