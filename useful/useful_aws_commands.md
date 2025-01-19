@@ -15,3 +15,15 @@ access keys
 `aws iam get-access-key-last-used`
 
 `aws iam delete-access-key`
+
+organizations
+-------------
+
+`aws organizations list-accounts --output table`
+
+`aws organizations list-delegated-administrators --output table`
+
+s3
+--
+
+`aws s3 ls`
