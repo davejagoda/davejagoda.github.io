@@ -2,7 +2,8 @@
 title: Useful cisco IOS commands
 layout: appleII
 ---
+```
+show version
 
-`show version`
-
-`terminal length 0`
+terminal length 0
+```

@@ -5,42 +5,44 @@ layout: appleII
 
 from command line
 -----------------
+```
+pg_ctl -D ~/db/postgres9.6 -l ~/db/postgres9.6/logfile start
 
-`pg_ctl -D ~/db/postgres9.6 -l ~/db/postgres9.6/logfile start`
+pg_ctl -D ~/db/postgres9.6 stop
 
-`pg_ctl -D ~/db/postgres9.6 stop`
+psql -U postgres
 
-`psql -U postgres`
-
-`createuser`
+createuser
+```
 
 from psql
 ---------
+```
+\?
 
-`\?`
+\q
 
-`\q`
+\l
 
-`\l`
+\dn
 
-`\dn`
+\dn+
 
-`\dn+`
+\c <dbname>
 
-`\c <dbname>`
+\d [<tablename>|<viewname>]
 
-`\d [<tablename>|<viewname>]`
+\d+ [<tablename>|<viewname>]
 
-`\d+ [<tablename>|<viewname>]`
+\dt *.*
 
-`\dt *.*`
+\du
 
-`\du`
+\dv
 
-`\dv`
+\o /tmp/psql.out
 
-`\o /tmp/psql.out`
+\o
 
-`\o`
-
-`SELECT current_time;`
+SELECT current_time;
+```

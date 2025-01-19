@@ -5,7 +5,6 @@ layout: appleII
 
 git
 ---
-
 ```
 git status
 
@@ -72,7 +71,6 @@ git tag
 
 GitHub
 ------
-
 ```
 git remote set-url origin git@github.com:davejagoda/davejagoda.github.io.git
 

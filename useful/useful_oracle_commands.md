@@ -2,6 +2,6 @@
 title: Useful Oracle commands
 layout: appleII
 ---
-
-
-`SELECT * FROM dual;`
+```
+SELECT * FROM dual;
+```

@@ -15,7 +15,9 @@ what is git?
 git is a graph; the nodes are snapshots, the edges are ways to get
 from one snapshot to another
 
-`git log --graph --oneline`
+```
+git log --graph --oneline
+```
 
 what are the two modes of operation of git?
 -------------------------------------------
@@ -30,9 +32,9 @@ what are the two modes of operation of git?
 what are the two modes of merging in git?
 -----------------------------------------
 
-- git-merge (interleave commits based on time)
+- `git-merge` (interleave commits based on time)
 
-- git-rebase (apply commit after getting the latest code)
+- `git-rebase` (apply commit after getting the latest code)
 
 observations:
 -------------

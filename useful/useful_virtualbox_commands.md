@@ -6,15 +6,17 @@ layout: appleII
 from command line
 -----------------
 
-`VBoxManage list vms`
+```
+VBoxManage list vms
 
-`VBoxManage list runningvms`
+VBoxManage list runningvms
 
-`VBoxManage list ostypes`
+VBoxManage list ostypes
 
-`VBoxManage showvminfo <vmname>`
+VBoxManage showvminfo <vmname>
 
-`VBoxManage modifyhd ~/VirtualBoxVMs/vm/vm.vdi --resize 10240`
+VBoxManage modifyhd ~/VirtualBoxVMs/vm/vm.vdi --resize 10240
+```
 
 resources
 ---------

@@ -2,10 +2,12 @@
 title: Useful GCP commands
 layout: appleII
 ---
-`gcloud auth login`
+```
+gcloud auth login
 
-`gcloud organizations list`
+gcloud organizations list
 
-`gcloud projects list`
+gcloud projects list
 
-`gcloud organizations get-iam-policy <ORGANIZATION_ID>`
+gcloud organizations get-iam-policy <ORGANIZATION_ID>
+```

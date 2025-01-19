@@ -6,21 +6,25 @@ layout: appleII
 from command line
 -----------------
 
-`sqlite3`
+```
+sqlite3
+```
 
 from sqlite
 -----------
 
-`.help`
+```
+.help
 
-`.open <sqlite_db_filename>`
+.open <sqlite_db_filename>
 
-`.show`
+.show
 
-`.databases`
+.databases
 
-`.tables`
+.tables
 
-`.schema <table_name>`
+.schema <table_name>
 
-`.quit`
+.quit
+```

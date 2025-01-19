@@ -2,9 +2,10 @@
 title: Useful Chrome commands
 layout: appleII
 ---
+```
+chrome://inspect/#pages
 
-`chrome://inspect/#pages`
+Cmd-Option-J
 
-`Cmd-Option-J`
-
-`document.getElementById("pages-list").childElementCount`
+document.getElementById("pages-list").childElementCount
+```

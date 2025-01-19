@@ -6,19 +6,21 @@ layout: appleII
 from command line
 -----------------
 
-`docker ps -a`
+```
+docker ps -a
 
-`docker stop <image>`
+docker stop <image>
 
-`docker images`
+docker images
 
-`docker info`
+docker info
 
-`docker system prune`
+docker system prune
 
-`docker build .`
+docker build .
 
-`docker compose up`
+docker compose up
+```
 
 resources
 ---------

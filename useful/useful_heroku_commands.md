@@ -5,100 +5,120 @@ layout: appleII
 
 apps
 ----
-`heroku apps`
+```
+heroku apps
 
-`heroku apps -A`
+heroku apps -A
 
-`heroku apps:info`
+heroku apps:info
 
-`heroku apps:info -a davejagoda`
+heroku apps:info -a davejagoda
 
-`heroku apps:info -a davejagoda-staging`
+heroku apps:info -a davejagoda-staging
 
-`heroku apps:info -r production`
+heroku apps:info -r production
 
-`heroku apps:info -r staging`
+heroku apps:info -r staging
 
-`heroku releases -a targetapp`
+heroku releases -a targetapp
 
-`heroku fork --from sourceapp --to targetapp`
+heroku fork --from sourceapp --to targetapp
 
-`heroku create -a targetapp`
+heroku create -a targetapp
 
-`heroku destroy -a targetapp`
+heroku destroy -a targetapp
+```
 
 regions
 -------
-`heroku regions`
+```
+heroku regions
 
-`heroku regions --common`
+heroku regions --common
 
-`curl -n -X GET https://api.heroku.com/regions/us -H "Accept: application/vnd.heroku+json; version=3"`
+curl -n -X GET https://api.heroku.com/regions/us -H "Accept: application/vnd.heroku+json; version=3"
+```
 
 remotes
 -------
-`heroku git:remote -a davejagoda -r production`
+```
+heroku git:remote -a davejagoda -r production
 
-`heroku git:remote -a davejagoda-staging -r staging`
+heroku git:remote -a davejagoda-staging -r staging
 
-`git push production`
+git push production
 
-`git push staging`
+git push staging
+```
 
 config
 ------
-`heroku config`
+```
+heroku config
 
-`heroku config:set SECRET_KEY=u'<SECRET_STUFF>'`
+heroku config:set SECRET_KEY=u'<SECRET_STUFF>'
 
-`heroku config:unset SECRET_KEY`
+heroku config:unset SECRET_KEY
+```
 
 keys
 ----
-`heroku keys`
+```
+heroku keys
 
-`heroku keys:add`
+heroku keys:add
+```
 
 local
 -----
-`heroku local`
+```
+heroku local
 
-`heroku local web`
+heroku local web
+```
 
 login
 -----
-`heroku login`
+```
+heroku login
 
-`export HEROKU_ORGANIZATION=your_organization`
+export HEROKU_ORGANIZATION=your_organization
 
-`heroku login --sso`
+heroku login --sso
 
-`heroku whoami`
+heroku whoami
+```
 
 addons
 ------
-`heroku addons:create papertrail:choklad --name papertrail-targetapp -a targetapp`
+```
+heroku addons:create papertrail:choklad --name papertrail-targetapp -a targetapp
+```
 
 postgres
 --------
-`heroku pg`
+```
+heroku pg
 
-`heroku pg:info`
+heroku pg:info
 
-`heroku pg:psql`
+heroku pg:psql
 
-`heroku pg:psql -r production COLOR`
+heroku pg:psql -r production COLOR
 
-`heroku pg:promote COLOR`
+heroku pg:promote COLOR
+```
 
 django
 ------
-`heroku run python manage.py createsuperuser`
+```
+heroku run python manage.py createsuperuser
 
-`heroku run python manage.py migrate`
+heroku run python manage.py migrate
 
-`heroku run python manage.py check`
+heroku run python manage.py check
 
-`heroku run python manage.py dumpdata [app_label.ModelName]`
+heroku run python manage.py dumpdata [app_label.ModelName]
 
-`heroku run python manage.py shell -c 'from django.contrib.auth.models import User; print(User.objects.make_random_password())'`
+heroku run python manage.py shell -c 'from django.contrib.auth.models import User; print(User.objects.make_random_password())'
+```

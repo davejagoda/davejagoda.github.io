@@ -5,25 +5,26 @@ layout: appleII
 
 from command line
 -----------------
+```
+mongo
 
-`mongo`
-
-`mongo mongodb://<username>:<password>@<hostname>/<dbname>`
+mongo mongodb://<username>:<password>@<hostname>/<dbname>
+```
 
 from mongo shell
 ----------------
+```
+show dbs
 
-`show dbs`
+use <dbname>
 
-`use <dbname>`
+show collections
 
-`show collections`
+db.<collectionname>.find()
 
-`db.<collectionname>.find()`
-
-`quit()`
+quit()
+```
 
 resources
 ---------
-
 [SQL to MongoDB Mappping Chart](https://docs.mongodb.com/manual/reference/sql-comparison/#sql-to-mongodb-mapping-chart)
