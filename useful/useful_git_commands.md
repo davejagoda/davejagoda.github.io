@@ -66,9 +66,11 @@ git remote show origin
 git symbolic-ref refs/remotes/origin/HEAD --short
 
 git remote set-head origin --auto
+
+git tag
 ```
 
-Github
+GitHub
 ------
 
 ```
