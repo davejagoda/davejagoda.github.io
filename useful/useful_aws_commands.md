@@ -29,6 +29,10 @@ aws logs describe-log-streams --log-group-name <LOG_GROUP_NAME>
 aws logs describe-log-streams --log-group-name <LOG_GROUP_NAME> | grep logStreamName
 
 aws logs get-log-events --log-group-name <LOG_GROUP_NAME> --log-stream-name <LOG_STREAM_NAME>
+
+aws logs tail <LOG_GROUP_NAME> --follow
+
+aws logs tail <LOG_GROUP_NAME> --since 5m
 ```
 
 organizations
