@@ -41,6 +41,12 @@ organizations
 aws organizations list-accounts --output table
 
 aws organizations list-delegated-administrators --output table
+
+aws account get-primary-email --account-id <AWS_ACCOUNT_ID>
+
+aws account start-primary-email-update --account-id <AWS_ACCOUNT_ID> --primary-email <AWS_ROOT_EMAIL_ADDRESS>
+
+aws account accept-primary-email-update --account-id <AWS_ACCOUNT_ID> --otp <OTP> --primary-email <AWS_ROOT_EMAIL_ADDRESS>
 ```
 
 s3
