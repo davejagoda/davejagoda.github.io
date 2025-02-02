@@ -392,3 +392,8 @@ layout: appleII
   we wish
 
 \- George Washington
+
+
+> Controlling complexity is the essence of computer programming.
+
+\- Brian Kernighan
