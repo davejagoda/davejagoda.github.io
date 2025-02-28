@@ -66,6 +66,8 @@ OS X
 ----
 
 ```
+dscl . -list /Users UniqueID | sort -n -k 2
+
 dot_clean
 
 fs_usage
