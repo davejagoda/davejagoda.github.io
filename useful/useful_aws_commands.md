@@ -40,6 +40,10 @@ organizations
 ```
 aws organizations list-accounts --output table
 
+aws organizations list-accounts --output table --query 'Accounts[*].[Name,Id,Arn,JoinedMethod,JoinedTimestamp,Status]'
+
+aws organizations list-accounts --output table --query 'Accounts[].{Id: Id, Who: Email, State: Status, How: JoinedMethod, When: JoinedTimestamp}'
+
 aws organizations list-delegated-administrators --output table
 
 aws account get-primary-email --account-id <AWS_ACCOUNT_ID>
