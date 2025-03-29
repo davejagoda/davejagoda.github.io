@@ -9,8 +9,6 @@ from command line
 ```
 docker ps -a
 
-docker stop <image>
-
 docker images
 
 docker info
@@ -18,6 +16,14 @@ docker info
 docker system prune
 
 docker build .
+
+docker build . -t image_tag_name
+
+docker run --name container_name -d -p 4000:4000 image_tag_name
+
+docker exec -it image_tag_name bash
+
+docker stop container_name
 
 docker compose up
 ```
