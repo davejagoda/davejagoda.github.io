@@ -69,6 +69,8 @@ Horowitz, Ben. (2019). *What You Do Is Who You Are*.
 
 Johnson, Ed (2006). *Hacknot: Essays on Software Development*.
 
+King, David (1992). *Project Management Made Simple: A Guide to Successful Management of Computer Systems Projects.*
+
 Konigsburg, E. L. (1967). *From the Mixed-Up Files of Mrs. Basil E. Frankweiler*.
 
 Leeson, Nicholas William (1996). *Rogue Trader: How I Brought Down Barings Bank and Shook the Financial World*.
