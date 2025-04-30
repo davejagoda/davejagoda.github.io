@@ -373,6 +373,11 @@ layout: appleII
 \- Henry Kissinger
 
 
+> There cannot be a crisis next week. My schedule is already full.
+
+\- Henry Kissinger
+
+
 > Hardly present in the debate of the day, or in historians' since,
   the pogroms answer the question 'Was the Intervention wowrth it?' at
   a stroke. The answer is No. Even at the distance of a century, with
