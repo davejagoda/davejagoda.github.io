@@ -59,6 +59,12 @@ Gibson, William (1988). *Mona Lisa Overdrive*.
 
 Gibson, William (1990). *Skinner's Room*.
 
+Gibson, William (1993). *Virtual Light*.
+
+Gibson, William (1996). *Idoru*.
+
+Gibson, William (1999). *All Tomorrow's Parties*.
+
 Gibson, William (2014). *The Peripheral*.
 
 Grove, Andrew S. (2001). *Swimming Across*.
