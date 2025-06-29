@@ -408,3 +408,10 @@ layout: appleII
   tongue must praise you.
 
 \- Matthew Hale
+
+
+> Note the obsessive use of abbreviations and avoidance of capital
+  letters; this is a system invented by people to whom repetitive
+  stress disorder is what black lung is to miners.
+
+\- Neal Stephenson
