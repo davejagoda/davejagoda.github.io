@@ -379,7 +379,7 @@ layout: appleII
 
 
 > Hardly present in the debate of the day, or in historians' since,
-  the pogroms answer the question 'Was the Intervention wowrth it?' at
+  the pogroms answer the question 'Was the Intervention worth it?' at
   a stroke. The answer is No. Even at the distance of a century, with
   1919's killings long overshadowed by the Holocaust, the fact that
   Britain knowingly funded, supplied, trained and sent men to fight
