@@ -402,3 +402,9 @@ layout: appleII
 > Controlling complexity is the essence of computer programming.
 
 \- Brian Kernighan
+
+
+> It is a sign that your reputation is small and sinking if your own
+  tongue must praise you.
+
+\- Matthew Hale
