@@ -37,11 +37,11 @@ Dick, Philip K. (1968). *Do Androids Dream of Electric Sheep?*.
 
 Duke, Annie (2018). *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts*.
 
+Fergusson, Adam (2010). *When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany.*
+
 Fournier, Camille (2017). *The Manager's Path*.
 
 Frank, Thomas (2016). *Listen, Liberal*.
-
-Fergusson, Adam (2010). *When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany.*
 
 Galef, Julia (2021). *The Scout Mindset*.
 
@@ -101,9 +101,9 @@ Liu, Wendy (2020). *Abolish Silicon Valley: How to Liberate Technology From Capi
 
 Lovecraft, H.P. (1917). *Dagon*.
 
-Lovecraft, H.P. (1928). *The Call of Cthulhu*.
-
 Lovecraft, H.P. (1928). *Cool Air*.
+
+Lovecraft, H.P. (1928). *The Call of Cthulhu*.
 
 Lyons, Dan (2016). *Disrupted*.
 
@@ -166,3 +166,5 @@ Sowell, Thomas (2000). *A Personal Odyssey*.
 Steig, William (1990). *Shrek!*.
 
 Stein, Samuel (2019). *Capital City: Gentrification and the Real Estate State*.
+
+Stephenson, Neal (1999). *In the Beginning was the Command Line*.
