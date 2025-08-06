@@ -415,3 +415,9 @@ layout: appleII
   stress disorder is what black lung is to miners.
 
 \- Neal Stephenson
+
+
+> When someone says "I want a programming language in which I need
+  only say what I wish done," give him a lollipop.
+
+\- Alan Perlis
