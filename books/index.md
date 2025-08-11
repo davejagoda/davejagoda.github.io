@@ -168,3 +168,5 @@ Steig, William (1990). *Shrek!*.
 Stein, Samuel (2019). *Capital City: Gentrification and the Real Estate State*.
 
 Stephenson, Neal (1999). *In the Beginning was the Command Line*.
+
+Vahtre, Lauri (2007). *Empire of the Absurd: A Brief History of the Absurdities of the Soviet Union*.
