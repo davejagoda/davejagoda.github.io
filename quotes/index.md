@@ -421,3 +421,10 @@ layout: appleII
   only say what I wish done," give him a lollipop.
 
 \- Alan Perlis
+
+
+> In their subconscious hopes that a societal formula is as simple and
+  as universal as the famous E=mc², people are prepared to believe
+  nonsense if it only sounds good.
+
+\- Lauri Vahtre
