@@ -428,3 +428,8 @@ layout: appleII
   nonsense if it only sounds good.
 
 \- Lauri Vahtre
+
+
+> Хотели как лучше, а получилось как всегда.
+
+\- Виктор Черномырдин
