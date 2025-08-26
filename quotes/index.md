@@ -267,7 +267,7 @@ layout: appleII
 \- Peter Baring
 
 
-> So, just take that into consideration - that people are the ones
+> So, just take that into consideration that the people are the ones
   that make these corporations go. It's not the other way around.
 
 \- Christian Smalls
@@ -433,3 +433,8 @@ layout: appleII
 > Хотели как лучше, а получилось как всегда.
 
 \- Виктор Черномырдин
+
+
+> Talk is cheap until you hire a lawyer.
+
+\- P.T. Barnum
