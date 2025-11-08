@@ -9,6 +9,10 @@ from command line
 ```
 docker ps -a
 
+docker run hello-world
+
+docker run -i -t ubuntu /bin/bash
+
 docker images
 
 docker info
