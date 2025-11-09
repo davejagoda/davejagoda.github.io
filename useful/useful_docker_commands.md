@@ -11,6 +11,8 @@ docker ps -a
 
 docker run hello-world
 
+docker run --rm busybox date
+
 docker run -i -t ubuntu /bin/bash
 
 docker images
