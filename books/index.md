@@ -79,6 +79,8 @@ King, David (1992). *Project Management Made Simple: A Guide to Successful Manag
 
 Konigsburg, E. L. (1967). *From the Mixed-Up Files of Mrs. Basil E. Frankweiler*.
 
+Leaf, Munro (1946). *How to Behave and Why*.
+
 Leeson, Nicholas William (1996). *Rogue Trader: How I Brought Down Barings Bank and Shook the Financial World*.
 
 Lencioni, Patrick (2004). *Death by Meeting*.
