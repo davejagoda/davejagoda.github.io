@@ -117,6 +117,8 @@ McCullough, David G. (2005). *1776*.
 
 Miller, Chris (2022). *Chip War the Fight for the World's Most Critical Technology*.
 
+Munger, Charles T. (2023). *Poor Charlie's Almanack*.
+
 Murray, Douglas (2017). *The Strange Death of Europe*.
 
 Murray, Douglas (2019). *The Madness of Crowds*.
