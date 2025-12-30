@@ -69,6 +69,8 @@ Gibson, William (2014). *The Peripheral*.
 
 Grove, Andrew S. (2001). *Swimming Across*.
 
+Hao, Karen (2025). *Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI*.
+
 Horowitz, Ben. (2014). *The Hard Thing About Hard Things*.
 
 Horowitz, Ben. (2019). *What You Do Is Who You Are*.
