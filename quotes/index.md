@@ -455,3 +455,10 @@ layout: appleII
   he.
 
 \- Joseph Weizenbaum
+
+
+> An infinite number of monkeys, on an infinite number of typewriters,
+  will eventually produce the collected works of Shakespeare. John
+  Romero's Daikatana was a ten-minute, five-monkey job.
+
+\- McMoo
