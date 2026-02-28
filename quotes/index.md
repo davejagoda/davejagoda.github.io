@@ -443,7 +443,7 @@ layout: appleII
 > It is said that to explain is to explain away. This maxim is nowhere
   so well fulfilled as in the area of computer programming, especially
   in what is called heuristic programming and artificial intelligence.
-  or in those realms machines are made to behave in wondrous ways,
+  For in those realms machines are made to behave in wondrous ways,
   often sufficient to dazzle even the most experienced observer. But
   once a particular program is unmasked, once its inner workings are
   explained in language sufficiently plain to induce understanding,
