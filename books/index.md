@@ -147,6 +147,8 @@ Reid, Anna (2024). *A Nasty Little War: The Western Intervention Into the Russia
 
 Reilly, Wilfred (2020). *Taboo: 10 Facts You Can't Talk About*.
 
+Rosenthal, Elisabeth (2017). *An American Sickness: How Healthcare Became Big Business and How You Can Take It Back*.
+
 Rowling, J. K. (1997). *Harry Potter and The Sorcerer's Stone*.
 
 Rowling, J. K. (1998). *Chamber of Secrets*.
