@@ -135,6 +135,8 @@ O'Brien, Robert C. (1974). *Z for Zachariah*.
 
 Orwell, George (1937). *The Road to Wigan Pier*.
 
+Orwell, George (1945). *Animal Farm: A Fairy Story*.
+
 Orwell, George (1949). *Nineteen Eighty-Four*.
 
 Parkinson, Cyril Northcote (1957). *Parkinson's Law, and Other Studies in Administration*.
