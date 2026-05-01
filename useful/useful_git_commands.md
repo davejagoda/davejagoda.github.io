@@ -20,6 +20,8 @@ git mv UsefulUnixCommands.html UsefulCommands.html
 
 git diff
 
+git diff HEAD HEAD^1 -w
+
 git log
 
 git log -p -1
