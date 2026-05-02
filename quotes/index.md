@@ -468,3 +468,9 @@ layout: appleII
   Romero's Daikatana was a ten-minute, five-monkey job.
 
 \- McMoo
+
+
+> You do not rise to the level of your goals. You fall to the level of
+  your systems.
+
+\- James Clear
