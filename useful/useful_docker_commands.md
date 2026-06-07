@@ -15,6 +15,8 @@ docker run --rm busybox date
 
 docker run -i -t ubuntu /bin/bash
 
+docker run -it --rm -v /:/host --user root ubuntu bash
+
 docker images
 
 docker info
