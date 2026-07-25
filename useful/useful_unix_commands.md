@@ -66,6 +66,8 @@ OS X
 ----
 
 ```
+caffeinate -dims
+
 dscl . -list /Users UniqueID | sort -n -k 2
 
 dot_clean
