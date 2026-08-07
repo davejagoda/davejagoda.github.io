@@ -474,3 +474,19 @@ layout: appleII
   your systems.
 
 \- James Clear
+
+
+> It made you a moron.
+
+\- Johnny Rotten
+
+
+> I have observed, throughout life, that a man may do an immense deal
+  of good, if he does not care who gets the credit for it.
+
+\- Father Strickland
+
+
+> I read the code.
+
+\- Mitchell Hashimoto
