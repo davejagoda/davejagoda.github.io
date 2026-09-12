@@ -26,6 +26,8 @@ git log
 
 git log -p -1
 
+git log -1 --format=%H
+
 git config --global log.date iso
 
 git config --list
