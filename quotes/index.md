@@ -490,3 +490,9 @@ layout: appleII
 > I read the code.
 
 \- Mitchell Hashimoto
+
+
+> Like all of life's rich emotional experiences, the full flavor of
+  losing important money cannot be conveyed by literature.
+
+\- Fred Schwed
