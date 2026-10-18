@@ -143,6 +143,8 @@ Parkinson, Cyril Northcote (1957). *Parkinson's Law, and Other Studies in Admini
 
 Perkins, John (2004). *Confessions of an Economic Hit Man*.
 
+Poundstone, William (2005). *Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*.
+
 Reed, Touré F. (2020). *Toward Freedom: The Case Against Race Reductionism*.
 
 Reid, Anna (2024). *A Nasty Little War: The Western Intervention Into the Russian Civil War*.
