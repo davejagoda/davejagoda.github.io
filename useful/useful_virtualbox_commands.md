@@ -15,6 +15,8 @@ VBoxManage list ostypes
 
 VBoxManage showvminfo <vmname>
 
+VBoxManage showvminfo --machinereadable <vmname>
+
 VBoxManage modifyhd ~/VirtualBoxVMs/vm/vm.vdi --resize 10240
 ```
 
